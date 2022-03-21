@@ -47,13 +47,11 @@
 
 <style scoped>
     header{
-        background-color: #3a5a42;
+        background-color: rgba(31,90,63,.7);
         height: 120px;
         width: 100%;
         display: flex;
         justify-content: center;
-        align-items: center;
-        box-shadow: 3px 3px 3px #21291c;
         position: fixed;
         top: 0;
         z-index: 1;
@@ -88,7 +86,7 @@
         position: fixed;
         top: 0;
         right: 0;
-        background-color: #3a5a42;
+        background-color: rgba(31,90,63,.7);
         width: 60%;
         height: 100vh;
         display: none;
@@ -145,11 +143,13 @@
             position: static;
             height: 60px;
             width: auto;
+            background-color: transparent;
         }
         ul{
             display: flex;
             height: 60px;
             align-items: center;
+            background-color: transparent;
         }
         ul li{
             margin: 0;

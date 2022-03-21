@@ -2,22 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'Noto Serif', serif;
 }
 a{
     text-decoration: none;
     color: #000;
 }
-body{
 
-    background-color: rgba(58, 90, 66, 0.8);
-}
 .container{
     box-sizing: border-box;
     width: 100%; 
     padding: 0 40px; 
     max-width: 1366px; 
-    margin:30px auto;
+    margin:0 auto;
 
 }
 img {
