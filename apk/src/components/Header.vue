@@ -47,7 +47,7 @@
 
 <style scoped>
     header{
-        background-color: rgba(31,90,63,.7);
+        background-color: rgb(31,90,63);
         height: 120px;
         width: 100%;
         display: flex;
@@ -55,6 +55,7 @@
         position: fixed;
         top: 0;
         z-index: 1;
+        align-items: center;
     }
     nav{
         display: flex;
