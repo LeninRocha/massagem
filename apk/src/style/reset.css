@@ -24,9 +24,14 @@ img {
 }
 p{
     font-size: 24px;
-    padding: 20px;
+    padding: 10px;
     line-height: 36px;
     text-align: center;
+}
+button{
+    background: none;
+    color: #fff;
+    border: none;
 }
 @media (max-width: 700px){
     .container{
@@ -34,7 +39,7 @@ p{
     }
     p{
         font-size: 18px;
-        padding: 20px;
+        padding: 5px;
         line-height: 24px;
         text-align: center;
     }

@@ -3,13 +3,10 @@
             <div class="container">
                 <div class="footer-left">
                     <a><img alt="Logo" id="logo" src="../assets/logo.png"/></a>
+                    <span>Avenida Jacarandá, 47, Edifício Águas Claras Center, bloco a, sala 210</span>
                     <div class="text-foooter">
-                        <p>Avenida Jacarandá, 47, edifício águas claras center, bloco a, sala 210</p>
-                        <p><a href="https://api.whatsapp.com/send?phone=5561992534242" target="_blank">61 99253-4242</a></p>
+                    <p><a href="https://api.whatsapp.com/send?phone=5561992534242" target="_blank"><i class="fa fa-whatsapp" ></i>Agende sua consuta por WhatsApp</a></p>
                     </div>
-                </div>
-                <div class="footer-right">
-                    <p>sociais</p>
                 </div>
             </div>
     </footer>
@@ -23,27 +20,49 @@
 
 <style scoped>
     footer{
-         display: flex;
-        justify-content: center;
-        position: absolute;
-        background-color: #234635;
+        position: fixed;
+        bottom: 0;
         width: 100%;
-}
-
-    footer .footer-left{
-        width: 50%;
-        float: left;
+        background-color:#264134 ;
+    }
+    .footer-left{
         display: flex;
+        padding: 10px 0; 
+        color: #fff;
+            justify-content: space-between;
+            align-items: center;
     }
-    footer .footer-left img{
-        width: 100px;
+    .footer-left span{
+        display: none;
     }
-    footer .footer-left .text-foooter p{
-        padding: 5px;
-        font-size: 16px;
+    .footer-left img{
+        width: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
-    footer .footer-right{
-        width: 50%;
-        float: right;
+    .footer-right{
+        display: none;
     }
+    .text-foooter{
+
+        border: 1px solid #fff;
+        border-radius: 10px;
+        color: #fff;
+        width: 220px;
+    }
+    .text-foooter a{
+        color: #fff;
+        display: flex;
+        font-size: 14px;
+    }
+    .text-foooter a .fa{
+        font-size: 42px;
+        margin-right: 5px;
+    }
+@media (min-width: 700px){
+    .footer-left span{
+        display: block;
+    }
+}
 </style>
