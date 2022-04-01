@@ -122,8 +122,6 @@
                                 <li v-on:click="closeMenu">
                                     <router-link to="/bambuterapia">Bambuterapia</router-link>
                                 </li>
-                            </ul>
-                            <ul>
                                 <li v-on:click="closeMenu">
                                     <router-link to="/Pedra-quente">Pedra Quente</router-link>
                                 </li>
@@ -339,15 +337,18 @@
         cursor: pointer;
         position: relative;
     }
+    .level-1:hover .title-menu{
+        border-bottom: 1px solid #e6ae60;
+    }
 
     .level-1 .level-2{
         display: none;
-        width: 700px;
+        width: 265px;
         position: absolute;
-        height: 200px;
-        padding: 20px;
-        background-color: #fff ;
-        box-shadow: 3px 3px 3px #ccc;
+        height: 270px;
+        padding: 10px;
+        background-color: rgba(38, 65, 52, .6) ;
+        box-shadow: 3px 3px 3px rgba(38, 65, 52, .6);
 
     }
     .level-1 .level-2 ul{
@@ -356,10 +357,10 @@
         justify-content: flex-start;
     }
     .level-1 .level-2 ul a{
-        color: #264134;
+        color: #fff;
     }
      .level-1 .level-2 ul a:hover{
-        color: #405c36;
+        color: #e6ae60;
     }
     .level-1:hover .level-2{
         display: flex;
@@ -404,7 +405,7 @@
         ul{
             display: flex;
             height: 60px;
-            align-items: center;
+            align-items: left;
             background-color: transparent;
         }
         ul li{
