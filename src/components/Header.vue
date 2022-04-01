@@ -203,6 +203,7 @@
             },
             closeMenu: function(){
                 this.menuActive = false;
+                window.scrollTo(0, 0)
             }
         },
     }
@@ -378,6 +379,7 @@
         max-height: 400px;
         overflow: scroll;
         height: 400px;
+        padding: 20px;
     }
     .vsa-item__content ul{
     margin-left: 20px;

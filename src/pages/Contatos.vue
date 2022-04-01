@@ -37,36 +37,30 @@ export default {
         padding: 130px 0 200px;
     }
     h3{
-        color:#264134;
-        text-align: center;
+        color:#FFF;
+        text-align: left;
         padding: 20px 0;
         font-weight: 600;
+        font-size: 22px;
     }
-    h4{
-        color:#264134;
-        font-size: 20px;
-        text-align: center;
+    p{
+        color: #fff;
+        text-align: left;
     }
     a{
-        color:#264134;
+        color:#fff;
     }
     @media (min-width: 700px){
-        .conteudo{
-            display: flex;
-        }
+        h3{
+             font-size: 38px;
+         }
         .como-encontrar{
             width: 50%;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
+             float: left;
         }
         .contatos{
             width: 50%;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
+            float: left;
         }
     }
 </style>

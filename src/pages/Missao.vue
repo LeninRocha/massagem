@@ -5,7 +5,7 @@
                 <div class="conteudo">
                     <h3>Missão</h3>
                     <p>Proporcionar um atendimento de excelência com das melhores técnicas terapêuticas para assim, promover qualidade de vida, favorecer o resgate da autoestima com terapias capazes de estimular o bem-estar e o relaxamento através de um tratamento humanizado, com profissionais qualificados em um ambiente agradável, relaxante e seguro.</p>
-                    <h4>Valores</h4>
+                    <h3>Valores</h3>
                     <p>•	Ética – Atuar com consciência e responsabilidade;</p>
                     <p>•	Humanização - Oferecer um atendimento humanizado que valorize a pessoa;</p>
                     <p>•	Excelência - Superar as expectativas do cliente suprindo suas necessidades no resultado e satisfação;</p>
@@ -27,19 +27,22 @@ export default {
 <style scoped>
     .page-conteudo{
         padding: 130px 0 150px;
+        color: #FFF;
     }
     h3{
-        color:#264134;
-        text-align: center;
+        color:#FFF;
+        text-align: left;
         padding: 20px 0;
         font-weight: 600;
+        font-size: 22px;
     }
-    h4{
-        color:#264134;
-        font-size: 20px;
-        text-align: center;
+    p{
+        text-align: left
     }
-    a{
-        color:#264134;
-    }
+     @media (min-width: 700px){
+         h3{
+             font-size: 38px;
+         }
+     }
+
 </style>

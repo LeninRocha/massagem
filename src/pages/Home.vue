@@ -182,6 +182,7 @@ export default {
   }
   .section-five p{
     padding: 5px 0;
+    font-size: 16px;
     text-align: left;
   }
   .section-five .text-section-five{
