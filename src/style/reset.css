@@ -4,6 +4,11 @@
     box-sizing: border-box;
     font-family: 'Noto Serif', serif;
 }
+
+@font-face {
+  font-family: 'Dream Avenue';
+  src: url('../assets/Dream-Avenue.ttf') format('truetype');
+}
 a{
     text-decoration: none;
     color: #000;
@@ -36,6 +41,17 @@ p{
     line-height: 36px;
     text-align: left;
 }
+h2{
+    font-family: 'Dream Avenue';
+    font-size: 68px;
+}
+h4{
+    padding: 20px 0;
+} 
+h4 +h4{
+    padding: 0 0 20px;
+} 
+
 button{
     background: none;
     color: #fff;
@@ -52,4 +68,8 @@ button{
         line-height: 24px;
         text-align: left;
     }
+    h2{
+        font-size: 24px;
+    }
+
 }

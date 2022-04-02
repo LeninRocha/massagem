@@ -4,13 +4,13 @@
             <div class="container">
                 <div class="image">
                     <div class="text-image">
-                         <h3>MASSAGEM TÂNTRICA<br/> PARA CASAIS</h3>
+                         <h2>MASSAGEM TÂNTRICA<br/> PARA CASAIS</h2>
                     </div>
                 </div>
                 <div class="conteudo">
                         <div class="conteudo-corrente">
-                                                <h4>MASSAGEM TÂNTRICA PARA CASAIS</h4>
-                    <p>Desenvolvimento para Casais na Massagem Tântrica</p>
+                    <h4>MASSAGEM TÂNTRICA PARA CASAIS -<br/>
+                        Desenvolvimento para Casais na Massagem Tântrica</h4>
                     <h4>A MASSAGEM TÂNTRICA</h4>
                     <p>“Podemos considerar uma das ferramentas presentes na terapêutica tântrica como um portal para conexão com o corpo e sensações. A Massagem Tântrica para homens é uma experiência de autoconhecimento ampla e expansão sensorial que pretende acompanhar um desenvolvimento de totalidade”</p>
                     <p>“Viva essa experiência. Aprecie esse estilo de vida. Seja bem-vindo ao espaço Danrê”</p>
@@ -24,7 +24,7 @@
                     <h4>METODOLOGIA DANRÊ</h4>
                     <p class="color-green"><strong>o que vai acontecer na massagem?</strong></p>
                     <p>Desenvolvemos uma metodologia divida em quatro partes, onde:</p>
-                    <p>1° etapa: Talk – Diálogo</p>
+                    <p><strong> 1° etapa: Talk – Diálogo</strong></p>
                     <p>Aqui os nossos terapeutas conduzirão uma breve conversa para entender as demandas do casal.
 Como estarão em um ambiente seguro e com total discrição vocês poderão se sentir à vontade para se expressarem verbalmente, falando sobre o corpo de vocês, suas carências, algum distúrbio (se houver), alguma curiosidade sobre o tantra, qual o motivo da terapia, tirar qualquer dúvida ou, até mesmo, não falarem nada. 
 </p>
@@ -32,11 +32,11 @@ Como estarão em um ambiente seguro e com total discrição vocês poderão se s
 Esse é o momento do casal, vocês decidem como querem iniciar a terapia e qual técnica utilizar.
 Os terapeutas irão passar técnicas de respiração, movimentação, toque e conexão para que assim, consigamos dar mais eficácia à terapia.
 </p>
-                    <p>2º etapa: Deep Release + SensitiveTouch  | Soltura Profunda +Toque Sensorial</p>
+                    <p><strong>2º etapa: Deep Release + SensitiveTouch  | Soltura Profunda +Toque Sensorial</strong> </p>
                     <p>Iniciamos a sessão com técnicas de soltura muscular profunda nos dois, para liberar o corpo de dores, cansaço e estresse muscular. Com toque terra (presença) liberamos a musculatura rígida que possa estar inibindo e armazenando energia condensada. É fundamental o relaxamento e liberação muscular para os próximos processos. O corpo livre e aberto sente. O corpo rígido congela e tensiona. Esse é um toque fundamental para a expansão orgástica na sessão. É um bom momento para começar a se conectar com o parceiro(a).</p>
                     <p>Nosso corpo possui uma corrente elétrica capaz de acender lâmpadas. A maioria de nós não dá muita importância a esse fenômeno mas, é importante considerar que a circulação dessa eletricidade é a grande responsável pelo equilíbrio físico, mental e emocional do nosso organismo. O foco desta técnica é proporcionar ao casal uma maior consciência de seus corpos, reconhecimento do potencial orgástico que ele carrega, permitir a conscientização e a experimentação de orgasmos múltiplos, desenvolvendo outras possibilidades de prazer sobre uma nova perspectiva: oferecer um novo caminho de crescimento, expansão e consciência.</p>
                     <p>A bioeletricidade corporal é despertada através deste processo passando da 2ª para a 1ª camada da pele, retirando a ideia e o foco de orgasmo apenas pelos genitais movimentando e despertando pontos sensíveis e adormecidos de energia espalhando-se para o corpo todo como fonte de prazer e energia inesgotável.</p>
-                    <p>3° etapa: Lingam Massagem &#38; Yoni Massagem</p>
+                    <p><strong> 3° etapa: Lingam Massagem &#38; Yoni Massagem</strong> </p>
                     <p>Lingam é uma palavra do sânscrito que designa o órgão sexual masculino: na tradução literal significa “bastão de luz”. No Tantra o Lingam é respeitosamente visto e honrado, como o “bastão de luz” que canaliza energia criativa e prazer. Já Yoni é uma palavra do Sânscrito (योिन) que significa “passagem divina”, “lugar de nascimento”, “fonte de vida”, “templo sagrado” e ainda o órgão sexual feminino. É considerado igualmente um símbolo de Shakti e de outras deusas de natureza similar.</p>
                     <p>A Lingam Massagem é feita com toques e manobras muito específicas e elaboradas não para masturbar o pênis, mas para estimular, que são realizados alternadamente no Lingam (pênis), nos testículos e na região do períneo.  São utilizados vários tipos de toques e alongamentos, visando levar maior oxigenação e irrigação sanguínea para toda a área pélvica, ativando pontos inconscientemente, adormecidos proporcionando sensações intensas e, por muitas vezes, desconhecida pelos homens.</p>
                     <p>Na Yoni Massagem, o trabalho é focado, superdimensionado e intensificado na Vagina (Yoni) . É importante frisar que estas manipulações genitais não são movimentos masturbatórios, são técnicas que estimulam a vulva e a vagina que foram profundamente estudados e pesquisados, e são especificamente aplicados com o objetivo de aumentar o aspecto sensorial da região genital, proporcionando um tipo de prazer e estados alterados de percepção e consciência que nunca seriam experimentados com manipulações usuais masturbatórias ou sexuais. Na Yoni Massagem, geralmente as mulheres experimentam orgasmos múltiplos, sem declínio do prazer e uma expansão da energia em direção ao 7º Chakra – Saashara, um centro de energia localizado no topo da cabeça, vinculado ao sagrado, ao aspecto divino que existe dentro de nós. São utilizados vários tipos de toques, visando levar maior oxigenação e irrigação sanguínea para toda a área pélvica, ativando pontos reflexológicos e proporcionando inúmeras sensações que, por vezes, as mulheres nunca sentiram durante toda a sua vida sexual.</p>
@@ -67,7 +67,7 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
                     <p>•	Trabalho e tratamento de traumas</p>
                     <p>•	Toque consciente</p>
                     <p>•	Reconhecer os diversos pontos de prazer através dos sentidos;</p>
-                    <p>•	Reconhecer e controlar os estados de excitação, a fim de ajustar-se às experiências ou ao ritmo do (a) parceiro (a);</p>
+                    <p>•	Reconhecer e controlar os estados de excitação, a fim de ajustar-se às experiências ou ao ritmo do(a) parceiro(a);</p>
                     <p>•	Potencializar o condicionamento dos músculos ejaculadores, dos músculos intravaginais e clitorianos, preparando-os para maior volume de orgasmos e orgasmos múltiplos para homens e mulheres;</p>
                     <p>•	Melhora a qualidades dos orgasmos</p>
                     <p>•	Melhora a qualidade do sono</p>
@@ -75,7 +75,7 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
                     <p>•	Liberação dos bloqueios energéticos sexuais</p>
                     <p>•	Despertamento espiritual</p>
                     <p>•	Desperta regiões sensoriais adormecidas</p>
-                    <p>•	Conhecer aspectos da anatomia, a sua e a do (a) parceiro (a);</p>
+                    <p>•	Conhecer aspectos da anatomia, a sua e a do (a) parceiro(a);</p>
                     <p>•	Conectar a voz, a expressão, a comunicação e a respiração consciente às sensações que experimenta;</p>
                     <p>•	Causa sensação de bem-estar profundo</p>
                     <p>•	Autoconfiança</p>
@@ -88,33 +88,122 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
 
 
                 </div>
-                    <div class="flex">
+            <div class="flex">
                         <div class="col">
-                            <h4>Duvidas Frequentes</h4>
-                            <p>Todas as terapias possuem suas indicações e contraindicações. </p>
-                            <p>Nossas massagens são contraindicadas para indivíduos com:</p>
-                            <p>Contusões, pele inflamada, ferimentos, tumores, hérnia abdominal e áreas com fraturas recentes;</p>
-                            <p>Se você estiver com alguma condição dérmica infecciosas, rash ou feridas abertas;</p>
-                            <p>Após cirurgias recentes;</p>
-                            <p>Logo após sessões de quimioterapia ou radioterapia, a menos que seja recomendado por seu médico;</p>
-                            <p>Propensão a coágulos sanguíneos. Existe o risco dos coágulos se soltarem. Se você tem algum tipo de doença cardíaca verifique com seu médico se há alguma restrição para este tipo de massagem;</p>
-                            <p>Mulheres grávidas devem sempre consultar o médico antes de receber massagem.</p>
-                            <p>Asma aguda, cistite aguda, infecções agudas, ferimentos, doenças de pele e câncer.</p>
-                        </div>
-                        <div class="col">
-                            <h4>
-                                DURAÇÃO DA SESSÃO
-                            </h4>
-                            <p>1 hora</p>
-                    <p>Obs: Reserve uma hora e quarenta para o atendimento total.</p>
-                            <h3>INVESTIMENTO</h3>
+                            <h4>INVESTIMENTO</h4>
                             <p>R$ 480,00 – Sessão única (dinheiro, pix ou débito) | R$ 500,00 – Sessão única (crédito à vista ou parcelado em até 2x)</p>
                             <p>R$ 2.400,00 – 5 sessões (dinheiro, pix ou débito) | R$2.500,00 (crédito à vista ou parcelado em até 5x)</p>
                             <p>R$ 4.500,00 – 10 sessões (dinheiro, pix ou débito) | R$5.000,00 (crédito à vista ou parcelado em até 10x)</p>
-                            <h3>ATENDIMENTO DANRÊ</h3>
-                            <p>Seu atendimento será individual e personalizado a fim de atender as suas necessidades terapêuticas. Nossos terapeutas são altamente capacitados, exclusivos e especializados na área. Dispomos de um espaço tranquilo, reservado e seguro para melhor te atender.</p>
-                            <p><router-link to="/terapeutas-mulher">Terapeutas Mulher</router-link></p>
-                            <p><router-link to="/terapeutas-homem">Terapeuta Homem</router-link></p>
+
+                        </div>
+                        <div class="col">
+        
+                <vsa-list>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Qual a Segurança com a Higiene e Saúde?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Todos os terapeutas cadastrados no Paraíso Tantra seguem protocolos de biossegurança, saúde e higiene rigorosos para os atendimentos. A utilização de luvas nitrílicas ou látex para os processos de massagens íntimas e internas fazem parte deste protocolo. Caso você tenha hipersensibilidade ao látex temos um outro material disponível. Como padrão em nossas unidades todos os nossos lençóis são descartáveis após o atendimento. A limpeza e esterilização de materiais para o procedimento é feito conforme as recomendações da ANVISA (agência nacional de vigilância sanitária) aos quais somos certificados.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Quais são os Produtos Utilizados?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Materiais de origem vegetal para o corpo e genitais. Óleo de semente de Uva ou Óleo de Coco, famosos por terem propriedades medicinais e não representarem qualquer dano à saúde.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Como o terapeuta fica vestido?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Para a massagem tântrica não há necessidade de o terapeuta despir-se. O terapeuta facilita o seu processo na condução e movimentação da energia sexual. Sendo um condutor e facilitador do seu aprendizado o terapeuta utiliza roupas leves, confortáveis, que facilitem sua movimentação durante o processo da massagem.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Como eu fico vestido?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>O paciente permanece nú durante todo o processo da massagem. O corpo todo será trabalhado, para isso é necessário a nudez total. Caso não se sinta preparado para uma nudez integral temos outras atividades além da massagem tântrica como as meditações tântricas, respirações orgásticas, cursos práticos e teóricos sobre sexualidade que permitirão o conhecimento e prática em sua intimidade. A vivência com a massagem tântrica pode acontecer em um outro momento oportuno.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Existe Masturbação?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Não, você não será masturbado(a). Os processos de massagem lingam e yoni massagem são cientificamente estudados e exigem um conhecimento técnico específico para serem realizados, são manobras e movimentos alternados que possibilitam um conhecimento amplo da região. Todos os nossos profissionais estão capacitados para realizá-los. Então, fique tranquilo (a). A masturbação é um procedimento automático com movimentos repetitivos e pobres que fazem alcançar um “prazer” imediato através da pressão e manipulação impossibilitando totalmente o conhecimento corporal intenso e o orgasmo terapêutico.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Como posso “ejacular” sem ter sexo, penetração ou interação?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Esse é o ponto. Se você é uma pessoa que não imagina como poderia chegar a um êxtase total sem sexo, interação ou qualquer tipo de contato direto com uma outra pessoa, você realmente precisa conhecer o Tantra e a sua capacidade orgástica. A ejaculação é um processo distinto do orgasmo. (leia mais em nosso blog)</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Posso tocar o terapeuta?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>O Toque é um dos sentidos mais apurados dentro da nossa cultura e que praticamos involuntariamente. Vamos as compras ou ao supermercado e olhamos um produto, uma roupa, na prateleira. Pedimos ao vendedor: -“Posso ver?” e ele coloca o produto em cima de suas mãos. Se não pudermos tocar, virar, sentir a textura do tecido nós realmente não o enxergamos. Estamos o tempo todo utilizando os nossos sentidos, mesmo sem ter os percebidos realmente. O toque como um formato de sentir-se seguro na sessão, apoiar-se no outro é bem-vindo, o que não pode acontecer é uma vulgarização através do toque acreditando ser um processo de troca ou mais uma distração para ir para fora. A experiência é meditativa e a proposta é a conexão consigo. Incentivamos o auto toque para conexão!</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Existe algum contato corpo a corpo?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Não. Existem algumas informações e retratações infiéis a massagem tântrica espalhadas por aí. Em algumas delas é visto uma pessoa esfregando o corpo na outra, deslizando com óleos, gel, creme. Nada disso é Tantra, aliás isso não irá lhe trazer nenhum beneficio de conhecimento corporal. Nossos terapeutas estão inteiramente conectados com a proposta de trazer maior expansão e conexão orgástica além de trabalhar o desenvolvimento para auxílio as disfunções sexuais.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Posso ser atendido por um terapeuta do mesmo sexo?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Sim. Os terapeutas são condutores da capacidade orgástica e energia sexual. Se uma mulher receber a sessão de outra mulher ela não se torna homossexual por isso. Inclusive algumas mulheres sentem-se mais confortáveis com uma terapeuta, logo a questão da polaridade (homem/mulher) pode ser descartada como regra. Você pode fazer a sessão com quem se sentir mais confortável.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Qual o tempo de duração da sessão?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Em média 60 minutos (1h). Recomendamos que deixe um espaço de tempo de 1h e 40 minutos para realizar a sessão. Não se preocupe com o seu compromisso posterior durante o processo. É o seu momento, nada pode te atrapalhar.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>Existe sexo durante este processo?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Não. Sexo de qualquer espécie, complementos sexuais ou afins estão completamente descartados das nossas sessões.</p>
+                        </vsa-content>
+                    </vsa-item>
+                    <vsa-item>
+                        <vsa-heading>
+                         <h3>É possível realizar a sessão em menor tempo?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Não, a sessão de Massagem Tântrica é detalhada, expansiva e é necessário o período estipulado.</p>
+                        </vsa-content>
+                    </vsa-item>
+                                     <vsa-item>
+                        <vsa-heading>
+                         <h3>Posso escolher a terapeuta?</h3>
+                        </vsa-heading>
+                        <vsa-content>
+                            <p>Claro. Fique a vontade, todos os nossos terapeutas estão capacitados para o atendimento.</p>
+                        </vsa-content>
+                    </vsa-item>
+                </vsa-list>
                         </div>
                     </div>
             </div>
@@ -123,11 +212,48 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
     </main>
 </template>
 <script>
+        import {
+             VsaList,
+             VsaItem,
+             VsaHeading,
+             VsaContent
+        } from 'vue-simple-accordion';
 export default {
-        name: "TantricaCasal"
+        name: "TantricaCasal",
+                        components: {
+              VsaList,
+              VsaItem,
+              VsaHeading,
+              VsaContent
+            },
 }
 </script>
 <style scoped>
+    .vsa-item{
+        border: 1px solid #fff;
+        padding: 10px;
+        margin-bottom: 10px;
+        position: relative;
+        color: #fff;
+        transition: all 1.5s ease-out;
+
+    }
+    .vsa-item h3{
+        width: 95%;
+        font-size: 16px;
+        text-align: left;
+    }
+    .vsa-item h3::after{
+        content: '-';
+        font-size: 38px;
+        margin-left: 15px;
+        position: absolute;
+        right: 10px;
+        top: 0px;
+    }    
+    .vsa-item--is-active  h3::after{
+        content: '+';
+    }
     .flex{
         background-color: rgba(38, 65, 52, .6);;
         padding: 10px;
@@ -154,10 +280,10 @@ export default {
     h4{
         color: #fff;
         font-size: 18px;
-        text-align: left;
+        text-align: center;
     }
     p{
-          text-align: left;
+          text-align: justify;
     }
     .image{
         background-image:url('../assets/imagens_tantrica mulher.jpg') ;
@@ -176,6 +302,14 @@ export default {
     }
 
     @media (min-width: 700px){
+    .vsa-item h3{
+        width: auto;
+        font-size: 24px;
+
+    }
+    .vsa-item h3::after{
+        top: -5px;
+    }    
         .image{
             height: 800px;
             justify-content: flex-end;
@@ -186,12 +320,10 @@ export default {
         }
         .flex{
             padding: 40px;
-            display: flex;
             
         }
         .col{
             padding: 10px;
-            width: 50%;
         }
 
         .text-image{

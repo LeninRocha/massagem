@@ -31,13 +31,13 @@ export default {
     }
     h3{
         color:#FFF;
-        text-align: left;
+        text-align: center;
         padding: 20px 0;
         font-weight: 600;
         font-size: 22px;
     }
     p{
-        text-align: left
+        text-align: justify;
     }
      @media (min-width: 700px){
          h3{

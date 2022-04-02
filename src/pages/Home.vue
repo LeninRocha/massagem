@@ -4,8 +4,8 @@
         <div class="container">
             <div class="infos-section-one">
             <div class="text-section-one">
-              <h3>Danrê</h3>
-              <h4>Terapias Integrativas</h4>
+              <h2>DANRÊ</h2>
+              <h2>Terapias Integrativas</h2>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
       <div class="section-five">
         <div class="container">
           <div class="services-section-five">
-              <h3>serviços</h3>
+              <h3>Serviços</h3>
               <router-link to="/tantica-individual-homem">Tântrica Individual Homem</router-link>
               <router-link to="/tantica-individual-mulher">Tântrica Individual Mulher</router-link>
               <router-link to="/tantrica-casal">Tântrica Casal</router-link>
@@ -64,9 +64,10 @@
           </div>
           <div class="dados-section-five">
               <div class="text-section-five">
-                <h3>Contantos</h3>
+                <h3>Contatos</h3>
                 <h4>Endereço</h4>
-                <p>Avenida Jacarandá, 47, Edifício Águas Claras Center, bloco a, sala 210</p>
+                <p>Avenida Jacarandá, 47 <br/>
+                Edifício Águas Claras Center, bloco A, sala 210 </p>
                 <h4>WhatsApp</h4>  
                 <p><a href="https://api.whatsapp.com/send?phone=5561992534242" target="_blank">61 99253-4242</a></p>
                 <h4>E-MAIL</h4>
@@ -86,7 +87,7 @@ export default {
 <style scoped>
   .section-one{
     margin-top: 40px;
-    padding: 120px 0 0;
+    padding: 80px 0 0;
   }
   .section-one .infos-section-one{
     background-image: url('../assets/imagens_terapeutica.jpg');
@@ -102,7 +103,9 @@ export default {
     width: 60%;
     text-align: justify;
     color: #fff;
+    
   }
+  
   .section-two .info-section-two{
     background-image:url('../assets/imagens_tantrica homem.jpg');
         background-repeat: no-repeat;
@@ -129,6 +132,7 @@ export default {
   .text-section-two h3{
     color: #fff;
     font-size: 20px;
+    text-align: center;
   }
     .text-section-two p{
     color: #fff;
@@ -168,6 +172,7 @@ export default {
   .section-four h3{
     color: #fff;
     font-size: 22px;
+    text-align: center;
   }
   .section-five{
     background-color:  rgba(155, 113, 56, .8);
@@ -201,7 +206,7 @@ export default {
   .section-five .text-section-five a{
     color: #fff;
   }
-
+  .fa { margin-right: 5px;}
   @media (min-width: 700px){  
   .section-one .infos-section-one{
     height: 650px;
@@ -209,7 +214,7 @@ export default {
     align-items: center;
   }
     .text-section-one{
-    padding: 50px 20px;
+    padding: 70px 40px;
     width: auto;
     background-color: rgba(38, 65, 52, .8);
     margin: 0;

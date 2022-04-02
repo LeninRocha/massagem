@@ -15,14 +15,14 @@
                       QUEM SOMOS
                     </vsa-heading>
                     <vsa-content>
-                     <ul>
-                        <li v-on:click="closeMenu">
-                        <router-link to="/missao">Missão</router-link>
-                        </li>
-                        <li v-on:click="closeMenu">
-                            <router-link to="/espaco">Conheça nosso espaço </router-link>
-                        </li>
-                    </ul>
+                        <ul>
+                            <li v-on:click="closeMenu">
+                            <router-link to="/missao">Missão</router-link>
+                            </li>
+                            <li v-on:click="closeMenu">
+                                <router-link to="/espaco">Conheça nosso espaço </router-link>
+                            </li>
+                        </ul>
                     </vsa-content>
                      </vsa-item>
                     
@@ -212,7 +212,7 @@
 <style scoped>
     header{
         background-color: #264134;
-        height: 120px;
+        height: 70px;
         width: 100%;
         display: flex;
         justify-content: center;
@@ -229,7 +229,7 @@
         align-items: center;
     }
     #logo{
-        width: 100px;
+        width: 70px;
     }
     #menu-button{
         width: 30px;
@@ -406,7 +406,6 @@
         }
         ul{
             display: flex;
-            height: 60px;
             align-items: left;
             background-color: transparent;
         }

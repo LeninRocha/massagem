@@ -5,7 +5,7 @@
                     <a><img alt="Logo" id="logo" src="../assets/logo.png"/></a>
                     <span>Avenida Jacarandá, 47, Edifício Águas Claras Center, bloco a, sala 210</span>
                     <div class="text-foooter">
-                    <p><a href="https://api.whatsapp.com/send?phone=5561992534242" target="_blank"><i class="fa fa-whatsapp" ></i>Agende Aqui</a></p>
+                    <p><a href="https://api.whatsapp.com/send?phone=5561992534242" target="_blank"><i class="fa fa-whatsapp" ></i>Agende Aqui!</a></p>
                     </div>
                 </div>
             </div>
@@ -36,7 +36,7 @@
         display: none;
     }
     .footer-left img{
-        width: 80px;
+        width: 70px;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -62,9 +62,10 @@
         display: flex;
         font-size: 14px;
         padding: 5px;
+        align-items: center;
     }
     .text-foooter a .fa{
-        font-size: 42px;
+        font-size: 34px;
         margin-right: 5px;
     }
 @media (min-width: 700px){
