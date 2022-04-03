@@ -39,7 +39,7 @@
                             <p>R$ 750,00 – 5 sessões (dinheiro, pix ou débito) | R$ 800,00 (crédito à vista ou parcelado em até 4x)</p>
                         </div>
                         <div class="col">
-        
+        <h4>DÚVIDAS FREQUENTES</h4>
                 <vsa-list>
                     <vsa-item>
                         <vsa-heading>

@@ -44,7 +44,7 @@
 
                         </div>
                         <div class="col">
-        
+        <h4>DÚVIDAS FREQUENTES</h4>
                 <vsa-list>
                     <vsa-item>
                         <vsa-heading>

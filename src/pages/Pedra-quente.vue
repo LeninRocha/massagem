@@ -57,7 +57,7 @@ A terapia com pedras quentes é milenar, e os chineses a utilizam desde antes da
                             <p>R$ 1.500,00 – 10 sessões (dinheiro, pix ou débito) | R$1.600,00 (crédito à vista ou parcelado até 5x.</p>
                         </div>
                         <div class="col">
-        
+        <h4>DÚVIDAS FREQUENTES</h4>
                 <vsa-list>
                     <vsa-item>
                         <vsa-heading>

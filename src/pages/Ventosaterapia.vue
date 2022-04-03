@@ -39,7 +39,7 @@
                             <p>R$ 1.040,00 – 8 sessões (dinheiro, pix ou débito) | R$1.120,00 (crédito à vista ou parcelado em até 3x)</p>
                         </div>
                         <div class="col">
-        
+        <h4>DÚVIDAS FREQUENTES</h4>
                 <vsa-list>
                     <vsa-item>
                         <vsa-heading>
