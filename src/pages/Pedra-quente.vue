@@ -5,12 +5,12 @@
                 
                 <div class="image">
                     <div class="text-image">
-                         <h2>PEDRAS <br/> QUENTES</h2>
+                         <h2>PEDRAS QUENTES</h2>
                     </div>
                 </div>
                 <div class="conteudo">
                     <div class="conteudo-corrente">
-                        <h4>PEDRAS QUENTES -<br/>
+                        <h4>PEDRAS QUENTES <br/>
                         Desenvolvimento Individual Pedra Quente</h4>
 
                         <p>“Se você procura serenidade, relaxamento, calma e paz interior, a terapia com pedras quentes é para você!</p>
@@ -28,17 +28,23 @@ A terapia com pedras quentes é milenar, e os chineses a utilizam desde antes da
                         <p>As pedras quentes são  feitas de basalto, um tipo de rocha rica em ferro, o que facilita a retenção de calor. Normalmente, são utilizadas pedras de rios e riachos, porque são lisas devido a ação das correntes de água.</p>
                         <p>As pedras são colocadas em água quente até que atinjam a temperatura correta para o tratamento. Após, são colocadas sobre os pontos energéticos do corpo, fazendo com que a energia destes pontos seja facilmente distribuída, balanceando, assim, a energia do corpo e da mente.</p>
                        
-                        <h3>QUAIS OS BENEFÍCIOS?</h3>
-                        <p>•	Relaxamento profundo;</p>
-                        <p>•	Eliminação de gordura e combate à celulite;</p>
-                        <p>•	Aumento da circulação sanguínea;</p>
-                        <p>•	Revigora o tônus muscular;</p>
-                        <p>•	Melhora no fluxo da energia vital;</p>
-                        <p>•	Estimula os processos fisiológicos, como respiração e digestão;</p>
-                        <p>•	Alívio de dores musculares;</p>
-                        <p>•	Diminuição do estresse e tensões;</p>
-                        <p>•	Aumento do bem-estar;</p>
-                        <p>•	Melhora na mobilidade das articulações;</p>
+                        <h4>QUAIS OS BENEFÍCIOS?</h4>
+                        <div class="beneficios">
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>	Relaxamento profundo;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Eliminação de gordura e combate à celulite;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Aumento da circulação sanguínea;</p>
+                                 <p><img src='../assets/bolinhas-txt.png'>	Revigora o tônus muscular;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Melhora no fluxo da energia vital;</p>
+                            </div>
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>Estimula os processos fisiológicos, como respiração e digestão;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores musculares;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Diminuição do estresse e tensões;</p> 
+                                 <p><img src='../assets/bolinhas-txt.png'>	Aumento do bem-estar;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Melhora na mobilidade das articulações;</p>                                          
+                            </div>
+                        </div>
         
                     </div>
 
@@ -159,7 +165,20 @@ A terapia com pedras quentes é milenar, e os chineses a utilizam desde antes da
                     </vsa-item>
                 </vsa-list>
                         </div>
+                                   <div class="col">
+                    <h4>CONTRA INDICAÇÕES NA MASSAGEM!</h4>
+                    <p>Todas as terapias possuem suas indicações e contraindicações. </p>
+                    <p>Nossas massagens são contraindicadas para indivíduos com:</p>
+                    <p>Contusões, pele inflamada, ferimentos, tumores, hérnia abdominal e áreas com fraturas recentes;</p>
+                    <p>Se você estiver com alguma condição dérmica infecciosas, rash ou feridas abertas;</p>
+                    <p>Após cirurgias recentes;</p>
+                    <p>Logo após sessões de quimioterapia ou radioterapia, a menos que seja recomendado por seu médico;</p>
+                    <p>Propensão a coágulos sanguíneos. Existe o risco dos coágulos se soltarem. Se você tem algum tipo de doença cardíaca verifique com seu médico se há alguma restrição para este tipo de massagem;</p>
+                    <p>Mulheres grávidas devem sempre consultar o médico antes de receber massagem.</p>
+                    <p>Asma aguda, cistite aguda, infecções agudas, ferimentos, doenças de pele e câncer.</p>
                     </div>
+                    </div>
+                
             </div>
         </div>
 
@@ -183,6 +202,15 @@ export default {
 }
 </script>
 <style scoped>
+    .beneficios p{
+        display: flex;
+        align-items: baseline;
+    }
+    .beneficios img{
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+    }
     .vsa-item{
         border: 1px solid #fff;
         padding: 10px;
@@ -222,9 +250,7 @@ export default {
     a:hover{
         color: rgb(155, 113, 56)
     }
-    .page-conteudo{
-        padding: 130px 0 150px;
-    }
+
     .conteudo{
         background-color: rgba(155, 113, 56, .8);
         padding: 10px;
@@ -240,19 +266,22 @@ export default {
           text-align: justify;
     }
     .image{
-        background-image:url('../assets/imagens_tantrica mulher.jpg') ;
+        background-image:url('../assets/imagens_pedras quentes.jpg') ;
         background-repeat: no-repeat;
         background-size:cover ;
         height: 290px;
         display: flex;
+                justify-content: flex-end;
+        align-items: center;
     }
     .text-image{
-    background-color: #264134;
     margin: auto;
-    padding: 10px;
-    width: 60%;
     text-align: justify;
     color: #fff;
+    padding: 20px 20px;
+    width: auto;
+    background-color: rgba(38, 65, 52, .8);
+    margin: 0;
     }
 
     @media (min-width: 700px){
@@ -260,6 +289,12 @@ export default {
         width: auto;
         font-size: 24px;
 
+    }
+    .beneficios{
+        display: flex;
+    }
+      .beneficios .col{
+        width: 50%;
     }
     .vsa-item h3::after{
         top: -5px;

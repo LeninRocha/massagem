@@ -9,9 +9,8 @@
                 </div>
                 <div class="conteudo">
                     <div class="conteudo-corrente">
-                    <h4>BAMBUTERAPIA -<br/>
-                    Desenvolvimento Individual na Bambuterapia</h4>
-                    <h4>A BAMBUTERAPIA</h4>
+                    <h4>BAMBUTERAPIA </h4>
+                    <h5>Desenvolvimento Individual na Bambuterapia</h5>
                     <p>A Massagem BambuTerapia Corporal é uma técnica de massagem feita com pequenas hastes de bambus de diferentes tamanhos que agem como um prolongamento dos dedos e seu grande diferencial é a intensidade na eliminação das gorduras corporais.</p>
                     <p>Os bambus são parecidos com rolos ou varetas que se adaptam aos contornos corporais e podem ser aplicados em todo o corpo.</p>
                     <p>“Viva essa experiência. Aprecie esse estilo de vida. Seja bem-vindo ao espaço Danrê”</p>
@@ -20,12 +19,19 @@
                     <p>Nosso terapeuta conduzirá uma breve conversa para saber quais os seus pontos de tensão e assim, poder te proporcionar um atendimento personalizado dentro das suas necessidades.</p>
                     <p>A massagem é semelhante a relaxante, também feita sobre um futon onde o(a) terapeuta aplica manobras a fim de realizar estímulos nos pontos energéticos e nas zonas reflexas dos pés, mãos e rosto. Usaremos hastes de bambu de diferentes tamanhos para cada região do seu corpo (face, colo, barriga, costas, pernas, glúteos, pés, mão e braços) com o auxílio do óleo de amêndoa ou óleo de semente de uva (hipoalergênico). Você poderá ficar em várias posições durante a sessão (todas deitadas) sendo: decúbito dorsal (barriga para cima) e decúbito ventral (barriga para baixo).</p>
                     <h4>QUAIS OS BENEFÍCIOS?</h4>
-                    <p>•	Relaxamento</p>
-                    <p>•	Eliminar toxinas</p>
-                    <p>•	Reduzir a celulite</p>
-                    <p>•	Combater à gordura localizada</p>
-                    <p>•	Combater à flacidez</p>
-                    <p>•	Reduzir medidas</p>
+        
+                        <div class="beneficios">
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>		Relaxamento</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Eliminar toxinas</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Reduzir a celulite</p>
+                            </div>
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>Combater à gordura localizada</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Combater à flacidez</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Reduzir medidas</p>                                                
+                            </div>
+                        </div>
                     </div>
 
                     
@@ -146,7 +152,20 @@
                     </vsa-item>
                 </vsa-list>
                         </div>
+                                 <div class="col">
+                    <h4>CONTRA INDICAÇÕES NA MASSAGEM!</h4>
+                    <p>Todas as terapias possuem suas indicações e contraindicações. </p>
+                    <p>Nossas massagens são contraindicadas para indivíduos com:</p>
+                    <p>Contusões, pele inflamada, ferimentos, tumores, hérnia abdominal e áreas com fraturas recentes;</p>
+                    <p>Se você estiver com alguma condição dérmica infecciosas, rash ou feridas abertas;</p>
+                    <p>Após cirurgias recentes;</p>
+                    <p>Logo após sessões de quimioterapia ou radioterapia, a menos que seja recomendado por seu médico;</p>
+                    <p>Propensão a coágulos sanguíneos. Existe o risco dos coágulos se soltarem. Se você tem algum tipo de doença cardíaca verifique com seu médico se há alguma restrição para este tipo de massagem;</p>
+                    <p>Mulheres grávidas devem sempre consultar o médico antes de receber massagem.</p>
+                    <p>Asma aguda, cistite aguda, infecções agudas, ferimentos, doenças de pele e câncer.</p>
                     </div>
+                    </div>
+                    
             </div>
         </div>
 
@@ -170,6 +189,15 @@ export default {
 }
 </script>
 <style scoped>
+    .beneficios p{
+        display: flex;
+        align-items: baseline;
+    }
+    .beneficios img{
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+    }
     .vsa-item{
         border: 1px solid #fff;
         padding: 10px;
@@ -209,9 +237,7 @@ export default {
     a:hover{
         color: rgb(155, 113, 56)
     }
-    .page-conteudo{
-        padding: 130px 0 150px;
-    }
+
     .conteudo{
         background-color: rgba(155, 113, 56, .8);
         padding: 10px;
@@ -227,11 +253,13 @@ export default {
           text-align: justify;
     }
     .image{
-        background-image:url('../assets/imagens_tantrica mulher.jpg') ;
+        background-image:url('../assets/imagens_bambuterapia.jpg') ;
         background-repeat: no-repeat;
         background-size:cover ;
         height: 290px;
         display: flex;
+                justify-content: flex-end;
+        align-items: center;
     }
     .text-image{
     background-color: #264134;
@@ -240,6 +268,13 @@ export default {
     width: 60%;
     text-align: justify;
     color: #fff;
+        margin: auto;
+    text-align: justify;
+    color: #fff;
+    padding: 20px 20px;
+    width: auto;
+    background-color: rgba(38, 65, 52, .8);
+    margin: 0;
     }
 
     @media (min-width: 700px){
@@ -247,6 +282,12 @@ export default {
         width: auto;
         font-size: 24px;
 
+    }
+    .beneficios{
+        display: flex;
+    }
+      .beneficios .col{
+        width: 50%;
     }
     .vsa-item h3::after{
         top: -5px;

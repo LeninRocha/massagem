@@ -123,7 +123,7 @@
                                     <router-link to="/bambuterapia">Bambuterapia</router-link>
                                 </li>
                                 <li v-on:click="closeMenu">
-                                    <router-link to="/Pedra-quente">Pedra Quente</router-link>
+                                    <router-link to="/Pedra-quente">Pedras Quentes</router-link>
                                 </li>
                                 <li v-on:click="closeMenu">
                                      <router-link to="/relaxante">Relaxante</router-link>
@@ -212,7 +212,7 @@
 <style scoped>
     header{
         background-color: #264134;
-        height: 70px;
+        height: 40px;
         width: 100%;
         display: flex;
         justify-content: center;
@@ -229,7 +229,7 @@
         align-items: center;
     }
     #logo{
-        width: 70px;
+        width: 45px;
     }
     #menu-button{
         width: 30px;
@@ -284,7 +284,7 @@
         display: flex;
     }
     .social ul li .fa{
-        font-size: 36px;
+        font-size: 26px;
     }
     .social ul li.facebook img{
         width: 30px;

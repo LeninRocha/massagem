@@ -10,18 +10,13 @@
                 </div>
                 <div class="conteudo">
                     <div class="conteudo-corrente">
-                        <h4>MASSAGEM TÂNTRICA PARA HOMENS -<br/>
-                        Desenvolvimento Individual na Massagem Tântrica</h4>
+                        <h4>MASSAGEM TÂNTRICA PARA HOMENS</h4>
+                        <h5>Desenvolvimento Individual na Massagem Tântrica</h5>
                         <h4>A MASSAGEM TÂNTRICA</h4>
                         <p>“Podemos considerar uma das ferramentas presentes na terapêutica tântrica como um portal para conexão com o corpo e sensações. A <strong>Massagem Tântrica para homens</strong> é uma experiência de autoconhecimento ampla e expansão sensorial que pretende acompanhar um desenvolvimento de totalidade”</p>
                         <p>“Viva essa experiência. Aprecie esse estilo de vida. Seja bem-vindo ao espaço Danrê”</p>
                         <h4>FILOSOFIA DANRÊ</h4>
-                        <p>-Desprender-se de crenças limitantes</p>
-                        <p>-Autoconsciência corporal</p>
-                        <p>-Desenvolvimento da sexualidade livre de tabus</p>
-                        <p>-Desenvolvimento da sensibilidade orgástica</p>
-                        <p>-Expansão corporal da energia sexual</p>
-                        <p>- Dissipar traumas e bloqueios psicossomáticos</p>
+                        <img src="../assets/FILOSOFIA-DANRE.png" alt="Filosofia Danrê">
                         <h4>METODOLOGIA DANRÊ</h4>
                         <p><strong>o que vai acontecer na massagem?</strong></p>
                         <p>Desenvolvemos uma metodologia divida em quatro partes, onde:</p>
@@ -32,7 +27,7 @@ Esse tipo de abordagem é a conduta ideal para que possamos te proporcionar uma 
 Esse é o seu momento, você decide como quer iniciar a sua terapia e qual técnica quer utilizar.
 A (o) terapeuta irá te passar técnicas de respiração, movimentação, conexão para que assim, consigamos dar mais eficácia à terapia.
 </p>
-                        <p><strong>2º etapa: Deep Release+ SensitiveTouch |Soltura Profunda +Toque Sensorial</strong></p>
+                        <p><strong>2º etapa: Deep Release+ Sensitive Touch |Soltura Profunda +Toque Sensorial</strong></p>
                         <p>Iniciaremos com você em decúbito ventral e com um toque vigoroso que simboliza nosso contato com a terra, a fim de despertar as nossas memórias corporais, estimularemos a resiliência muscular do corpo. Associaremos esta etapa aos elementos Terra e Água. Presença e firmeza, fluidez e leveza. Com manobras alternadas de toques firmes e deslizamentos daremos início a sessão e a imersão na experiência Danrê.</p>
                         <p>A experiência tantra não tem um objetivo definido, porém, o “foco” desta etapaé despertar no corpo físico a bioletricidade através do toque leve, sutil sobre a pele, que representa o elemento ar. Vale ressaltar que a circulação dessa eletricidade é a grande responsável pelo equilíbrio físico, mental e emocional do nosso organismo. Muitas doenças são causadas pela falta desse suprimento elétrico no corpo. Vivemos em um grande campo magnético.Os estímulos elétricos causados pelos toques, aos poucos, vão ganhando potência e logo tornam-se espasmos musculares – são movimentos musculares que surgem em forma de ondas intensas convertidas inconscientemente em prazer. A potencialização enegética dessas ondas dá origem a uma experiência orgástica. Acontece então aquilo que chamamos de “Orgasmo seco”, ou “Ondas orgásticas”.</p>
                         <p><strong>3º etapa: Lingam Massagem</strong></p>
@@ -54,38 +49,46 @@ De fato, a maioria dos homens acredita que o pênis é a única zona erógena, m
                         <p>As sessões tântricas não têm objetivos principais, tudo é relativo e dependerá da sua perspectiva pois a experiência depende de como o sentido irá se desenvolver. Portanto, o homem que atinge um alto nível de prazer sexual não é o foco da massagem. Pode acontecer ou não, mas nunca é a intenção principal. Quanto a essa prática, pretende-se deixar a pessoa relaxada e livre para sentir o que acha que é certo naquele momento específico, sem estabelecer quaisquer barreiras mentais que não a deixem desfrutar plenamente da experiência.</p>
                         <p>O Tantra é o caminho da celebração da existência, de aceitação da nossa condição de seres em constante processo de evolução e do compromisso inabalável com o autoconhecimento. O Tantra é a realização aqui e agora de todo o potencial humano. Para o Tantra, a experiência de vida se dá no estado de relaxamento, não na luta.</p>
                         <p>Na luta, o movimento energético cessa e o ser humano se enrijece. Isso vai contra a vida. Vida para o Tantra é movimento, é fluxo constante, assim como as águas se movimentam em direção ao oceano, em determinados momentos em fluxo mais caótico, em outros mais contemplativo e sereno. </p>
-                        <h3>QUAIS OS BENEFÍCIOS?</h3>
-                        <p>•	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
-                        <p>•	Tratamento de distúrbios psicossomáticos</p>
-                        <p>•	Trabalho e tratamento de traumas</p>
-                        <p>•	Toque consciente</p>
-                        <p>•	Melhora dos relacionamentos afetivos</p>
-                        <p>•	Melhora a qualidades dos orgasmos</p>
-                        <p>•	Melhora a qualidade do sono</p>
-                        <p>•	Melhora a performance sexual</p>
-                        <p>•	Liberação dos bloqueios energéticos sexuais</p>
-                        <p>•	Despertamento espiritual</p>
-                        <p>•	Desperta regiões sensoriais adormecidas</p>  
-                        <p>•	Causa sensação de bem-estar profundo</p>                          
-                        <p>•	Autoconfiança</p>    
-                        <p>•	Aumento da libido e orgasmos múltiplos</p>    
-                        <p>•	Alívio de estresse</p>    
-                        <p>•	Alívio de dores</p>    
-                        <p>•	Ajuda na melhora de bloqueios emocionais</p>    
+                        <h4>QUAIS OS BENEFÍCIOS?</h4>
+                        <div class="beneficios">
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios psicossomáticos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Trabalho e tratamento de traumas</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Toque consciente</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora dos relacionamentos afetivos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidades dos orgasmos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidade do sono</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a performance sexual</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Liberação dos bloqueios energéticos sexuais</p>
+                            </div>
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>Despertamento espiritual</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Desperta regiões sensoriais adormecidas</p>  
+                                <p><img src='../assets/bolinhas-txt.png'>Causa sensação de bem-estar profundo</p>                          
+                                <p><img src='../assets/bolinhas-txt.png'>Autoconfiança</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Aumento da libido e orgasmos múltiplos</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Alívio de estresse</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Ajuda na melhora de bloqueios emocionais</p>    
                         
+                            </div>
+                        </div>
+                      
+
                     </div>
 
                 </div>
             <div class="flex">
-                        <div class="col">
+                <div class="col">
                             <h4>INVESTIMENTO</h4>
                             <p>R$ 250,00 – Sessão única (dinheiro, pix ou débito) | R$ 260,00 – Sessão única (crédito à vista ou parcelado em até 2x)</p>
                             <p>R$ 1.100,00 – 5 sessões(dinheiro, pix ou débito) | R$1.300,00 (crédito à vista ou parcelado em até 3x)</p>
                             <p>R$ 2.350,00 – 10 sessões (dinheiro, pix ou débito) | R$2.600,00 (crédito à vista ou parcelado em até 4x)</p>
 
-                        </div>
-                        <div class="col">
-        
+                </div>
+                <div class="col">
+                    <h4>DÚVIDAS FREQUENTES</h4>
                 <vsa-list>
                     <vsa-item>
                         <vsa-heading>
@@ -193,7 +196,19 @@ De fato, a maioria dos homens acredita que o pênis é a única zona erógena, m
                     </vsa-item>
                 </vsa-list>
                         </div>
+                    <div class="col">
+                    <h4>CONTRA INDICAÇÕES NA MASSAGEM!</h4>
+                    <p>Todas as terapias possuem suas indicações e contraindicações. </p>
+                    <p>Nossas massagens são contraindicadas para indivíduos com:</p>
+                    <p>Contusões, pele inflamada, ferimentos, tumores, hérnia abdominal e áreas com fraturas recentes;</p>
+                    <p>Se você estiver com alguma condição dérmica infecciosas, rash ou feridas abertas;</p>
+                    <p>Após cirurgias recentes;</p>
+                    <p>Logo após sessões de quimioterapia ou radioterapia, a menos que seja recomendado por seu médico;</p>
+                    <p>Propensão a coágulos sanguíneos. Existe o risco dos coágulos se soltarem. Se você tem algum tipo de doença cardíaca verifique com seu médico se há alguma restrição para este tipo de massagem;</p>
+                    <p>Mulheres grávidas devem sempre consultar o médico antes de receber massagem.</p>
+                    <p>Asma aguda, cistite aguda, infecções agudas, ferimentos, doenças de pele e câncer.</p>
                     </div>
+                </div>
             </div>
         </div>
 
@@ -217,6 +232,15 @@ export default {
 }
 </script>
 <style scoped>
+    .beneficios p{
+        display: flex;
+        align-items: baseline;
+    }
+    .beneficios img{
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+    }
     .vsa-item{
         border: 1px solid #fff;
         padding: 10px;
@@ -256,9 +280,7 @@ export default {
     a:hover{
         color: rgb(155, 113, 56)
     }
-    .page-conteudo{
-        padding: 130px 0 150px;
-    }
+  
     .conteudo{
         background-color: rgba(155, 113, 56, .8);
         padding: 10px;
@@ -274,19 +296,22 @@ export default {
           text-align: justify;
     }
     .image{
-        background-image:url('../assets/imagens_tantrica mulher.jpg') ;
+        background-image:url('../assets/imagens_tantrica homem.jpg') ;
         background-repeat: no-repeat;
         background-size:cover ;
         height: 290px;
         display: flex;
+                justify-content: flex-end;
+        align-items: center;
     }
     .text-image{
-    background-color: #264134;
-    margin: auto;
-    padding: 10px;
-    width: 60%;
+     margin: auto;
     text-align: justify;
     color: #fff;
+    padding: 20px 20px;
+    width: auto;
+    background-color: rgba(38, 65, 52, .8);
+    margin: 0;
     }
 
     @media (min-width: 700px){
@@ -294,6 +319,12 @@ export default {
         width: auto;
         font-size: 24px;
 
+    }
+    .beneficios{
+        display: flex;
+    }
+      .beneficios .col{
+        width: 50%;
     }
     .vsa-item h3::after{
         top: -5px;

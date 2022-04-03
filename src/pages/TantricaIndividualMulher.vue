@@ -11,18 +11,13 @@
                
                 <div class="conteudo">
                     <div class="conteudo-corrente">
-                    <h4>MASSAGEM TÂNTRICA PARA MULHERES -<br/>
+                    <h4>MASSAGEM TÂNTRICA PARA MULHERES <br/>
                     Desenvolvimento Individual na Massagem Tântrica</h4>
                     <h4>A MASSAGEM TÂNTRICA</h4>
                     <p>“Podemos considerar uma das ferramentas presentes na terapêutica tântrica como um portal para conexão com o corpo e sensações. A Massagem Tântrica para homens é uma experiência de autoconhecimento ampla e expansão sensorial que pretende acompanhar um desenvolvimento de totalidade”</p>
                     <p>“Viva essa experiência. Aprecie esse estilo de vida. Seja bem-vindo ao espaço Danrê”</p>
                     <h4>FILOSOFIA DANRÊ</h4>
-                    <p>-Desprender-se de crenças limitantes</p>
-                    <p>-Autoconsciência corporal</p>
-                    <p>-Desenvolvimento da sexualidade livre de tabus</p>
-                    <p>-Desenvolvimento da sensibilidade orgástica</p>
-                    <p>-Expansão corporal da energia sexual</p>
-                    <p>- Dissipar traumas e bloqueios psicossomáticos</p>
+                    <img src="../assets/FILOSOFIA-DANRE.png" alt="Filosofia Danrê">
                     <h4>METODOLOGIA DANRÊ</h4>
                     <p class="color-green"><strong>o que vai acontecer na massagem?</strong></p>
                     <p>Desenvolvemos uma metodologia divida em quatro partes, onde:</p>
@@ -55,23 +50,30 @@ Por fim, incorporamos uma visão de mundo baseada no saber científico, que desp
                     <p>O Tantra é o caminho da celebração da existência, de aceitação da nossa condição de seres em constante processo de evolução e do compromisso inabalável com o autoconhecimento. O Tantra é a realização aqui e agora de todo o potencial humano. Para o Tantra, a experiência de vida se dá no estado de relaxamento, não na luta.</p>
                     <p>Na luta, o movimento energético cessa e o ser humano se enrijece. Isso vai contra a vida. Vida para o Tantra é movimento, é fluxo constante, assim como as águas se movimentam em direção ao oceano, em determinados momentos em fluxo mais caótico, em outros mais contemplativo e sereno. </p>
                     <h4>QUAIS OS BENEFÍCIOS?</h4>
-                    <p>•	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
-                    <p>•	Tratamento de distúrbios psicossomáticos</p>
-                    <p>•	Trabalho e tratamento de traumas</p>
-                    <p>•	Toque consciente</p>
-                    <p>•	Melhora dos relacionamentos afetivos</p>
-                    <p>•	Melhora a qualidades dos orgasmos</p>
-                    <p>•	Melhora a qualidade do sono</p>
-                    <p>•	Melhora a performance sexual</p>
-                    <p>•	Liberação dos bloqueios energéticos sexuais</p>
-                    <p>•	Despertamento espiritual</p>
-                    <p>•	Desperta regiões sensoriais adormecidas</p>
-                    <p>•	Causa sensação de bem-estar profundo</p>
-                    <p>•	Autoconfiança</p>
-                    <p>•	Aumento da libido e orgasmos múltiplos</p>
-                    <p>•	Alívio de estresse</p>
-                    <p>•	Alívio de dores</p>
-                    <p>•	Ajuda na melhora de bloqueios emocionais</p>
+                        <div class="beneficios">
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios psicossomáticos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Trabalho e tratamento de traumas</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Toque consciente</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora dos relacionamentos afetivos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidades dos orgasmos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidade do sono</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a performance sexual</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Liberação dos bloqueios energéticos sexuais</p>
+                            </div>
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>Despertamento espiritual</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Desperta regiões sensoriais adormecidas</p>  
+                                <p><img src='../assets/bolinhas-txt.png'>Causa sensação de bem-estar profundo</p>                          
+                                <p><img src='../assets/bolinhas-txt.png'>Autoconfiança</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Aumento da libido e orgasmos múltiplos</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Alívio de estresse</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Ajuda na melhora de bloqueios emocionais</p>    
+                        
+                            </div>
+                        </div>
                     </div>
 
             </div>
@@ -192,7 +194,20 @@ Por fim, incorporamos uma visão de mundo baseada no saber científico, que desp
                     </vsa-item>
                 </vsa-list>
                         </div>
+                <div class="col">
+                    <h4>CONTRA INDICAÇÕES NA MASSAGEM!</h4>
+                    <p>Todas as terapias possuem suas indicações e contraindicações. </p>
+                    <p>Nossas massagens são contraindicadas para indivíduos com:</p>
+                    <p>Contusões, pele inflamada, ferimentos, tumores, hérnia abdominal e áreas com fraturas recentes;</p>
+                    <p>Se você estiver com alguma condição dérmica infecciosas, rash ou feridas abertas;</p>
+                    <p>Após cirurgias recentes;</p>
+                    <p>Logo após sessões de quimioterapia ou radioterapia, a menos que seja recomendado por seu médico;</p>
+                    <p>Propensão a coágulos sanguíneos. Existe o risco dos coágulos se soltarem. Se você tem algum tipo de doença cardíaca verifique com seu médico se há alguma restrição para este tipo de massagem;</p>
+                    <p>Mulheres grávidas devem sempre consultar o médico antes de receber massagem.</p>
+                    <p>Asma aguda, cistite aguda, infecções agudas, ferimentos, doenças de pele e câncer.</p>
                     </div>
+                    </div>
+ 
                 </div>
         </div>
 
@@ -217,6 +232,15 @@ export default {
 }
 </script>
 <style scoped>
+    .beneficios p{
+        display: flex;
+        align-items: baseline;
+    }
+    .beneficios img{
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+    }
     .vsa-item{
         border: 1px solid #fff;
         padding: 10px;
@@ -256,9 +280,7 @@ export default {
     a:hover{
         color: rgb(155, 113, 56)
     }
-    .page-conteudo{
-        padding: 130px 0 150px;
-    }
+
     .conteudo{
         background-color: rgba(155, 113, 56, .8);
         padding: 10px;
@@ -279,14 +301,17 @@ export default {
         background-size:cover ;
         height: 290px;
         display: flex;
+                justify-content: flex-end;
+        align-items: center;
     }
     .text-image{
-    background-color: #264134;
-    margin: auto;
-    padding: 10px;
-    width: 60%;
+  margin: auto;
     text-align: justify;
     color: #fff;
+    padding: 20px 20px;
+    width: auto;
+    background-color: rgba(38, 65, 52, .8);
+    margin: 0;
     }
 
     @media (min-width: 700px){
@@ -294,6 +319,12 @@ export default {
         width: auto;
         font-size: 24px;
 
+    }
+    .beneficios{
+        display: flex;
+    }
+      .beneficios .col{
+        width: 50%;
     }
     .vsa-item h3::after{
         top: -5px;

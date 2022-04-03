@@ -9,18 +9,13 @@
                 </div>
                 <div class="conteudo">
                         <div class="conteudo-corrente">
-                    <h4>MASSAGEM TÂNTRICA PARA CASAIS -<br/>
+                    <h4>MASSAGEM TÂNTRICA PARA CASAIS<br/>
                         Desenvolvimento para Casais na Massagem Tântrica</h4>
                     <h4>A MASSAGEM TÂNTRICA</h4>
                     <p>“Podemos considerar uma das ferramentas presentes na terapêutica tântrica como um portal para conexão com o corpo e sensações. A Massagem Tântrica para homens é uma experiência de autoconhecimento ampla e expansão sensorial que pretende acompanhar um desenvolvimento de totalidade”</p>
                     <p>“Viva essa experiência. Aprecie esse estilo de vida. Seja bem-vindo ao espaço Danrê”</p>
                     <h4>FILOSOFIA DANRÊ</h4>
-                    <p>-Desprender-se de crenças limitantes</p>
-                    <p>-Autoconsciência corporal</p>
-                    <p>-Desenvolvimento da sexualidade livre de tabus</p>
-                    <p>-Desenvolvimento da sensibilidade orgástica</p>
-                    <p>-Expansão corporal da energia sexual</p>
-                    <p>- Dissipar traumas e bloqueios psicossomáticos</p>
+                    <img src="../assets/FILOSOFIA-DANRE.png" alt="Filosofia Danrê">
                     <h4>METODOLOGIA DANRÊ</h4>
                     <p class="color-green"><strong>o que vai acontecer na massagem?</strong></p>
                     <p>Desenvolvemos uma metodologia divida em quatro partes, onde:</p>
@@ -62,29 +57,38 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
                     <p>O tantra é o conhecimento mais profundo que existe sobre a energia sexual, a energia vital. Seu uso correto é responsável pela beleza, juventude e atração entre os sexos. Somente o tantra, através dos milênios, tem se atrevido a ensinar isso com a simplicidade, com a pureza e com a profundidade que os ensinamentos precisam ser passados.</p>
          
                     <h4>QUAIS OS BENEFÍCIOS?</h4>
-                    <p>•	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
-                    <p>•	Tratamento de distúrbios psicossomáticos</p>
-                    <p>•	Trabalho e tratamento de traumas</p>
-                    <p>•	Toque consciente</p>
-                    <p>•	Reconhecer os diversos pontos de prazer através dos sentidos;</p>
-                    <p>•	Reconhecer e controlar os estados de excitação, a fim de ajustar-se às experiências ou ao ritmo do(a) parceiro(a);</p>
-                    <p>•	Potencializar o condicionamento dos músculos ejaculadores, dos músculos intravaginais e clitorianos, preparando-os para maior volume de orgasmos e orgasmos múltiplos para homens e mulheres;</p>
-                    <p>•	Melhora a qualidades dos orgasmos</p>
-                    <p>•	Melhora a qualidade do sono</p>
-                    <p>•	Melhora a performance sexual</p>
-                    <p>•	Liberação dos bloqueios energéticos sexuais</p>
-                    <p>•	Despertamento espiritual</p>
-                    <p>•	Desperta regiões sensoriais adormecidas</p>
-                    <p>•	Conhecer aspectos da anatomia, a sua e a do (a) parceiro(a);</p>
-                    <p>•	Conectar a voz, a expressão, a comunicação e a respiração consciente às sensações que experimenta;</p>
-                    <p>•	Causa sensação de bem-estar profundo</p>
-                    <p>•	Autoconfiança</p>
-                    <p>•	Aumento da libido e orgasmos múltiplos</p>
-                    <p>•	Aumentar a intimidade, a entrega e a confiança, resgatando e/ou melhorando a relação.</p>
-                    <p>•	Alívio de estresse</p>
-                    <p>•	Alívio de dores</p>
-                    <p>•	Ajuda na melhora de bloqueios emocionais</p>
+      
+                    <div class="beneficios">
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios psicossomáticos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>	Trabalho e tratamento de traumas</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Toque consciente</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Reconhecer os diversos pontos de prazer através dos sentidos;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Reconhecer e controlar os estados de excitação, a fim de ajustar-se às experiências ou ao ritmo do(a) parceiro(a);</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Potencializar o condicionamento dos músculos ejaculadores, dos músculos intravaginais e clitorianos, preparando-os para maior volume de orgasmos e orgasmos múltiplos para homens e mulheres;</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidades dos orgasmos</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidade do sono</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Melhora a performance sexual</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Liberação dos bloqueios energéticos sexuais</p>
+                            </div>
+                            <div class="col">
+                                <p><img src='../assets/bolinhas-txt.png'>Despertamento espiritual</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Desperta regiões sensoriais adormecidas</p> 
+                                <p><img src='../assets/bolinhas-txt.png'>Conhecer aspectos da anatomia, a sua e a do (a) parceiro(a);</p>                       
+                                <p><img src='../assets/bolinhas-txt.png'>Conectar a voz, a expressão, a comunicação e a respiração consciente às sensações que experimenta;</p>  
+                                <p><img src='../assets/bolinhas-txt.png'>Causa sensação de bem-estar profundo</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Autoconfiança</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Aumento da libido e orgasmos múltiplos</p>    
+                                <p><img src='../assets/bolinhas-txt.png'>Aumentar a intimidade, a entrega e a confiança, resgatando e/ou melhorando a relação.</p> 
+                                 <p><img src='../assets/bolinhas-txt.png'>Alívio de estresse</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores</p>
+                                <p><img src='../assets/bolinhas-txt.png'>Ajuda na melhora de bloqueios emocionais</p>
+                        
+                            </div>
+                        </div>
                     </div>
+
 
 
                 </div>
@@ -205,6 +209,18 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
                     </vsa-item>
                 </vsa-list>
                         </div>
+                                 <div class="col">
+                    <h4>CONTRA INDICAÇÕES NA MASSAGEM!</h4>
+                    <p>Todas as terapias possuem suas indicações e contraindicações. </p>
+                    <p>Nossas massagens são contraindicadas para indivíduos com:</p>
+                    <p>Contusões, pele inflamada, ferimentos, tumores, hérnia abdominal e áreas com fraturas recentes;</p>
+                    <p>Se você estiver com alguma condição dérmica infecciosas, rash ou feridas abertas;</p>
+                    <p>Após cirurgias recentes;</p>
+                    <p>Logo após sessões de quimioterapia ou radioterapia, a menos que seja recomendado por seu médico;</p>
+                    <p>Propensão a coágulos sanguíneos. Existe o risco dos coágulos se soltarem. Se você tem algum tipo de doença cardíaca verifique com seu médico se há alguma restrição para este tipo de massagem;</p>
+                    <p>Mulheres grávidas devem sempre consultar o médico antes de receber massagem.</p>
+                    <p>Asma aguda, cistite aguda, infecções agudas, ferimentos, doenças de pele e câncer.</p>
+                    </div>
                     </div>
             </div>
         </div>
@@ -229,6 +245,15 @@ export default {
 }
 </script>
 <style scoped>
+    .beneficios p{
+        display: flex;
+        align-items: baseline;
+    }
+    .beneficios img{
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+    }
     .vsa-item{
         border: 1px solid #fff;
         padding: 10px;
@@ -286,19 +311,22 @@ export default {
           text-align: justify;
     }
     .image{
-        background-image:url('../assets/imagens_tantrica mulher.jpg') ;
+        background-image:url('../assets/imagens_casal.jpg') ;
         background-repeat: no-repeat;
         background-size:cover ;
         height: 290px;
         display: flex;
+                justify-content: flex-end;
+        align-items: center;
     }
     .text-image{
-    background-color: #264134;
     margin: auto;
-    padding: 10px;
-    width: 60%;
     text-align: justify;
     color: #fff;
+    padding: 20px 20px;
+    width: auto;
+    background-color: rgba(38, 65, 52, .8);
+    margin: 0;
     }
 
     @media (min-width: 700px){
@@ -306,6 +334,12 @@ export default {
         width: auto;
         font-size: 24px;
 
+    }
+    .beneficios{
+        display: flex;
+    }
+      .beneficios .col{
+        width: 50%;
     }
     .vsa-item h3::after{
         top: -5px;

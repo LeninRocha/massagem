@@ -31,7 +31,7 @@
         </div>
         <div class="text-section-tree">
                 <h3>Quem somos</h3>
-                <p>Somos um centro terapêutico que tem o Tantra como principal ferramenta para cura e transição pessoal em todos os atendimentos e práticas. Nosso espaço Tantra atende diversas modalidades, entre as principais, ministra cursos para casais e pessoas interessadas em qualidade de vida.</p>
+                <p>Somos um centro terapêutico movido pelo desafio de promover evolução pessoal, cura e ressignificação do tantra dentro da vida do indivíduo, bem como proporcionar relaxamento, bem-estar e mais qualidade de vida, através do uso das nossas técnicas.</p>
         </div>
         </div>
 
@@ -57,7 +57,7 @@
               <router-link to="/tantica-individual-mulher">Tântrica Individual Mulher</router-link>
               <router-link to="/tantrica-casal">Tântrica Casal</router-link>
               <router-link to="/bambuterapia">Bambuterapia</router-link>              
-              <router-link to="/Pedra-quente">Pedra Quente</router-link>            
+              <router-link to="/Pedra-quente">Pedras Quentes</router-link>            
               <router-link to="/relaxante">Relaxante</router-link>
               <router-link to="/terapeutica">Terapêutica DANRÊ</router-link>
               <router-link to="/ventosaterapia">Ventosaterapia</router-link>  
@@ -87,7 +87,7 @@ export default {
 <style scoped>
   .section-one{
     margin-top: 40px;
-    padding: 80px 0 0;
+
   }
   .section-one .infos-section-one{
     background-image: url('../assets/imagens_terapeutica.jpg');
@@ -95,14 +95,17 @@ export default {
     background-size:cover ;
     height: 290px;
     display: flex;
+        justify-content: flex-end;
+    align-items: center;
   }
   .text-section-one{
-    background-color: #264134;
     margin: auto;
-    padding: 10px;
-    width: 60%;
     text-align: justify;
     color: #fff;
+    padding: 20px 20px;
+    width: auto;
+    background-color: rgba(38, 65, 52, .8);
+    margin: 0;
     
   }
   
@@ -125,18 +128,19 @@ export default {
     font-size: 16px;
   }
   .text-section-two{
-    padding: 20px 5px;
+    padding: 35px 5px;
     text-align: justify;
     color: #fff;
   }
   .text-section-two h3{
     color: #fff;
-    font-size: 20px;
+    font-size: 26px;
     text-align: center;
   }
     .text-section-two p{
     color: #fff;
-    font-size: 16px;
+    font-size: 20px;
+    text-align: justify;
   }
   .section-tree{
     text-align: justify;
@@ -147,10 +151,20 @@ export default {
     background-size:cover ;
     height: 290px;
   }
+   .section-tree .text-section-tree h3{
+         color: #fff;
+    font-size: 26px;
+    text-align: center;
+   }
+  .section-tree .text-section-tree p{
+        color: #fff;
+    font-size: 20px;
+    text-align: justify;
+  }
   .section-tree .text-section-tree{
     color: #fff;
     background-color: rgba(38, 65, 52, .8);
-    padding: 20px 5px;
+    padding: 35px 5px;
   }
   .section-tree .text-ection-tree h3{
     color: #e4a74b;
@@ -166,13 +180,18 @@ export default {
     color: #fff;
   }
   .section-four .text-section-four{
-    padding: 20px 5px;
+    padding: 35px 5px;
     background-color:rgba(155, 113, 56, .8) ;
   }
   .section-four h3{
     color: #fff;
-    font-size: 22px;
+    font-size: 26px;
     text-align: center;
+  }
+    .section-four p{
+    color: #fff;
+    font-size: 20px;
+    text-align: justify;
   }
   .section-five{
     background-color:  rgba(155, 113, 56, .8);
@@ -181,19 +200,26 @@ export default {
     color: #fff;
     
   }
+  .section-five .container{
+    padding: 0 30px;
+  }
   .section-five h3{
     font-size: 22px;
     color: #fff;
+    margin-bottom: 10px;
   }
   .section-five p{
     padding: 5px 0;
     font-size: 16px;
-    text-align: left;
+    text-align: justify;
   }
   .section-five .text-section-five{
     padding: 20px 0 20px;
     display: flex;
     flex-direction: column;
+  }
+  .section-five .text-section-five h4{
+padding: 5px 0;
   }
   .services-section-five{
     display: flex;
@@ -202,12 +228,16 @@ export default {
   
   .services-section-five a{
     color: #fff;
+    padding: 5px 0;
   }
   .section-five .text-section-five a{
     color: #fff;
   }
   .fa { margin-right: 5px;}
   @media (min-width: 700px){  
+    .section-tree .text-section-tree h3{
+      text-align: left;
+    }
   .section-one .infos-section-one{
     height: 650px;
     justify-content: flex-end;
@@ -240,18 +270,6 @@ export default {
     .section-two .images-section-two{
       width: 100%;
         background-color: #e6ae60;
-    }
-    .section-two .images-section-two .img-1{
-           width: 80%;
-            position: relative;
-            top: -50px;
-            left: 10%;
-    }
-    .section-two .images-section-two .img-2{
-           width: 80%;
-            position: relative;
-            bottom: -50px;
-            left: 20px;
     }
     .section-two .text-section-two{
       width: 50%;
