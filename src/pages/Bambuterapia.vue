@@ -116,8 +116,8 @@ export default {
         font-size: 16px;
         text-align: left;
     }
-    .vsa-item h3::after{
-        content: '-';
+   .vsa-item h3::after{
+        content: '+';
         font-size: 38px;
         margin-left: 15px;
         position: absolute;
@@ -125,7 +125,7 @@ export default {
         top: 0px;
     }    
     .vsa-item--is-active  h3::after{
-        content: '+';
+        content: '-';
     }
     .flex{
         background-color: rgba(38, 65, 52, .6);;
