@@ -132,7 +132,7 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
                          <h3>Como eu fico vestido?</h3>
                         </vsa-heading>
                         <vsa-content>
-                            <p>O paciente permanece nú durante todo o processo da massagem. O corpo todo será trabalhado, para isso é necessário a nudez total. Caso não se sinta preparado para uma nudez integral temos outras atividades além da massagem tântrica como as meditações tântricas, respirações orgásticas, cursos práticos e teóricos sobre sexualidade que permitirão o conhecimento e prática em sua intimidade. A vivência com a massagem tântrica pode acontecer em um outro momento oportuno.</p>
+                            <p>O cliente fica com suas roupas íntimas coberto por uma toalha,  a única parte que fica exposta é a parte que vai ser tratada.</p>
                         </vsa-content>
                     </vsa-item>
                     <vsa-item>
@@ -269,7 +269,7 @@ export default {
         text-align: left;
     }
     .vsa-item h3::after{
-        content: '-';
+        content: '+';
         font-size: 38px;
         margin-left: 15px;
         position: absolute;
@@ -277,7 +277,7 @@ export default {
         top: 0px;
     }    
     .vsa-item--is-active  h3::after{
-        content: '+';
+        content: '-';
     }
     .flex{
         background-color: rgba(38, 65, 52, .6);;

@@ -43,106 +43,10 @@
                 <vsa-list>
                     <vsa-item>
                         <vsa-heading>
-                         <h3>Qual a Segurança com a Higiene e Saúde?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Todos os terapeutas cadastrados no Paraíso Tantra seguem protocolos de biossegurança, saúde e higiene rigorosos para os atendimentos. A utilização de luvas nitrílicas ou látex para os processos de massagens íntimas e internas fazem parte deste protocolo. Caso você tenha hipersensibilidade ao látex temos um outro material disponível. Como padrão em nossas unidades todos os nossos lençóis são descartáveis após o atendimento. A limpeza e esterilização de materiais para o procedimento é feito conforme as recomendações da ANVISA (agência nacional de vigilância sanitária) aos quais somos certificados.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Quais são os Produtos Utilizados?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Materiais de origem vegetal para o corpo e genitais. Óleo de semente de Uva ou Óleo de Coco, famosos por terem propriedades medicinais e não representarem qualquer dano à saúde.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Como o terapeuta fica vestido?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Para a massagem tântrica não há necessidade de o terapeuta despir-se. O terapeuta facilita o seu processo na condução e movimentação da energia sexual. Sendo um condutor e facilitador do seu aprendizado o terapeuta utiliza roupas leves, confortáveis, que facilitem sua movimentação durante o processo da massagem.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Como eu fico vestido?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>O paciente permanece nú durante todo o processo da massagem. O corpo todo será trabalhado, para isso é necessário a nudez total. Caso não se sinta preparado para uma nudez integral temos outras atividades além da massagem tântrica como as meditações tântricas, respirações orgásticas, cursos práticos e teóricos sobre sexualidade que permitirão o conhecimento e prática em sua intimidade. A vivência com a massagem tântrica pode acontecer em um outro momento oportuno.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Existe Masturbação?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Não, você não será masturbado(a). Os processos de massagem lingam e yoni massagem são cientificamente estudados e exigem um conhecimento técnico específico para serem realizados, são manobras e movimentos alternados que possibilitam um conhecimento amplo da região. Todos os nossos profissionais estão capacitados para realizá-los. Então, fique tranquilo (a). A masturbação é um procedimento automático com movimentos repetitivos e pobres que fazem alcançar um “prazer” imediato através da pressão e manipulação impossibilitando totalmente o conhecimento corporal intenso e o orgasmo terapêutico.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Como posso “ejacular” sem ter sexo, penetração ou interação?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Esse é o ponto. Se você é uma pessoa que não imagina como poderia chegar a um êxtase total sem sexo, interação ou qualquer tipo de contato direto com uma outra pessoa, você realmente precisa conhecer o Tantra e a sua capacidade orgástica. A ejaculação é um processo distinto do orgasmo. (leia mais em nosso blog)</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Posso tocar o terapeuta?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>O Toque é um dos sentidos mais apurados dentro da nossa cultura e que praticamos involuntariamente. Vamos as compras ou ao supermercado e olhamos um produto, uma roupa, na prateleira. Pedimos ao vendedor: -“Posso ver?” e ele coloca o produto em cima de suas mãos. Se não pudermos tocar, virar, sentir a textura do tecido nós realmente não o enxergamos. Estamos o tempo todo utilizando os nossos sentidos, mesmo sem ter os percebidos realmente. O toque como um formato de sentir-se seguro na sessão, apoiar-se no outro é bem-vindo, o que não pode acontecer é uma vulgarização através do toque acreditando ser um processo de troca ou mais uma distração para ir para fora. A experiência é meditativa e a proposta é a conexão consigo. Incentivamos o auto toque para conexão!</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Existe algum contato corpo a corpo?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Não. Existem algumas informações e retratações infiéis a massagem tântrica espalhadas por aí. Em algumas delas é visto uma pessoa esfregando o corpo na outra, deslizando com óleos, gel, creme. Nada disso é Tantra, aliás isso não irá lhe trazer nenhum beneficio de conhecimento corporal. Nossos terapeutas estão inteiramente conectados com a proposta de trazer maior expansão e conexão orgástica além de trabalhar o desenvolvimento para auxílio as disfunções sexuais.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Posso ser atendido por um terapeuta do mesmo sexo?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Sim. Os terapeutas são condutores da capacidade orgástica e energia sexual. Se uma mulher receber a sessão de outra mulher ela não se torna homossexual por isso. Inclusive algumas mulheres sentem-se mais confortáveis com uma terapeuta, logo a questão da polaridade (homem/mulher) pode ser descartada como regra. Você pode fazer a sessão com quem se sentir mais confortável.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
                          <h3>Qual o tempo de duração da sessão?</h3>
                         </vsa-heading>
                         <vsa-content>
                             <p>Em média 60 minutos (1h). Recomendamos que deixe um espaço de tempo de 1h e meia para realizar a sessão. Não se preocupe com o seu compromisso posterior durante o processo. É o seu momento, nada pode te atrapalhar.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>Existe sexo durante este processo?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Não. Sexo de qualquer espécie, complementos sexuais ou afins estão completamente descartados das nossas sessões.</p>
-                        </vsa-content>
-                    </vsa-item>
-                    <vsa-item>
-                        <vsa-heading>
-                         <h3>É possível realizar a sessão em menor tempo?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Não, a sessão de Massagem Tântrica é detalhada, expansiva e é necessário o período estipulado.</p>
-                        </vsa-content>
-                    </vsa-item>
-                                     <vsa-item>
-                        <vsa-heading>
-                         <h3>Posso escolher a terapeuta?</h3>
-                        </vsa-heading>
-                        <vsa-content>
-                            <p>Claro. Fique a vontade, todos os nossos terapeutas estão capacitados para o atendimento.</p>
                         </vsa-content>
                     </vsa-item>
                 </vsa-list>
