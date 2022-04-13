@@ -115,6 +115,7 @@ export default {
         width: 95%;
         font-size: 16px;
         text-align: left;
+        cursor: pointer;
     }
    .vsa-item h3::after{
         content: '+';
