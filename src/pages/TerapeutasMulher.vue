@@ -5,13 +5,13 @@
             <div class="container">
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/Mavi.jpeg'/>
+                        <img src='../assets/Mavi.jpeg' alt="terapeuta Mavi"/>
                     </div>
                     <p>Mavi</p>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/Rebeca.jpeg'/>
+                        <img src='../assets/Rebeca.jpeg' alt="terapeuta Rebeca"/>
                     </div>
                     <p>Rebeca</p>
                 </div>

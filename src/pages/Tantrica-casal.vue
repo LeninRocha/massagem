@@ -60,30 +60,30 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
       
                     <div class="beneficios">
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios psicossomáticos</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Trabalho e tratamento de traumas</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Toque consciente</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Reconhecer os diversos pontos de prazer através dos sentidos;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Reconhecer e controlar os estados de excitação, a fim de ajustar-se às experiências ou ao ritmo do(a) parceiro(a);</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Potencializar o condicionamento dos músculos ejaculadores, dos músculos intravaginais e clitorianos, preparando-os para maior volume de orgasmos e orgasmos múltiplos para homens e mulheres;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidades dos orgasmos</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidade do sono</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Melhora a performance sexual</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Liberação dos bloqueios energéticos sexuais</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Tratamento de distúrbios psicossomáticos</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Trabalho e tratamento de traumas</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Toque consciente</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Reconhecer os diversos pontos de prazer através dos sentidos;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Reconhecer e controlar os estados de excitação, a fim de ajustar-se às experiências ou ao ritmo do(a) parceiro(a);</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Potencializar o condicionamento dos músculos ejaculadores, dos músculos intravaginais e clitorianos, preparando-os para maior volume de orgasmos e orgasmos múltiplos para homens e mulheres;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Melhora a qualidades dos orgasmos</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Melhora a qualidade do sono</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Melhora a performance sexual</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Liberação dos bloqueios energéticos sexuais</p>
                             </div>
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>Despertamento espiritual</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Desperta regiões sensoriais adormecidas</p> 
-                                <p><img src='../assets/bolinhas-txt.png'>Conhecer aspectos da anatomia, a sua e a do (a) parceiro(a);</p>                       
-                                <p><img src='../assets/bolinhas-txt.png'>Conectar a voz, a expressão, a comunicação e a respiração consciente às sensações que experimenta;</p>  
-                                <p><img src='../assets/bolinhas-txt.png'>Causa sensação de bem-estar profundo</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Autoconfiança</p>    
-                                <p><img src='../assets/bolinhas-txt.png'>Aumento da libido e orgasmos múltiplos</p>    
-                                <p><img src='../assets/bolinhas-txt.png'>Aumentar a intimidade, a entrega e a confiança, resgatando e/ou melhorando a relação.</p> 
-                                 <p><img src='../assets/bolinhas-txt.png'>Alívio de estresse</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Ajuda na melhora de bloqueios emocionais</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Despertamento espiritual</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Desperta regiões sensoriais adormecidas</p> 
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Conhecer aspectos da anatomia, a sua e a do (a) parceiro(a);</p>                       
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Conectar a voz, a expressão, a comunicação e a respiração consciente às sensações que experimenta;</p>  
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Causa sensação de bem-estar profundo</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Autoconfiança</p>    
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Aumento da libido e orgasmos múltiplos</p>    
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Aumentar a intimidade, a entrega e a confiança, resgatando e/ou melhorando a relação.</p> 
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio de estresse</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio de dores</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Ajuda na melhora de bloqueios emocionais</p>
                         
                             </div>
                         </div>

@@ -22,14 +22,14 @@
         
                         <div class="beneficios">
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>		Relaxamento</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Eliminar toxinas</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Reduzir a celulite</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">		Relaxamento</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Eliminar toxinas</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Reduzir a celulite</p>
                             </div>
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>Combater à gordura localizada</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Combater à flacidez</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Reduzir medidas</p>                                                
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Combater à gordura localizada</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Combater à flacidez</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Reduzir medidas</p>                                                
                             </div>
                         </div>
                     </div>

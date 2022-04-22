@@ -19,14 +19,14 @@
                     <h4>QUAIS OS BENEFÍCIOS?</h4>
                         <div class="beneficios">
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>	Aumento da circulação sanguínea local;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Eliminação de contraturas musculares e pontos gatilho;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Melhor circulação sanguínea;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Aumento da circulação sanguínea local;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Eliminação de contraturas musculares e pontos gatilho;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Melhor circulação sanguínea;</p>
                             </div>
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>Aumentar a produção de líquido sinovial dentro das articulações;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Relaxar e acalmar o corpo e a mente.</p>  
-                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores locais.</p>                                                  
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Aumentar a produção de líquido sinovial dentro das articulações;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Relaxar e acalmar o corpo e a mente.</p>  
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio de dores locais.</p>                                                  
                             </div>
                         </div>
                     </div>

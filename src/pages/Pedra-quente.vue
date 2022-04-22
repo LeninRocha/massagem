@@ -31,18 +31,18 @@ A terapia com pedras quentes é milenar, e os chineses a utilizam desde antes da
                         <h4>QUAIS OS BENEFÍCIOS?</h4>
                         <div class="beneficios">
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>	Relaxamento profundo;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Eliminação de gordura e combate à celulite;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Aumento da circulação sanguínea;</p>
-                                 <p><img src='../assets/bolinhas-txt.png'>	Revigora o tônus muscular;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Melhora no fluxo da energia vital;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Relaxamento profundo;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Eliminação de gordura e combate à celulite;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Aumento da circulação sanguínea;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Revigora o tônus muscular;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Melhora no fluxo da energia vital;</p>
                             </div>
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>Estimula os processos fisiológicos, como respiração e digestão;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores musculares;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Diminuição do estresse e tensões;</p> 
-                                 <p><img src='../assets/bolinhas-txt.png'>	Aumento do bem-estar;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Melhora na mobilidade das articulações;</p>                                          
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Estimula os processos fisiológicos, como respiração e digestão;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio de dores musculares;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Diminuição do estresse e tensões;</p> 
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Aumento do bem-estar;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Melhora na mobilidade das articulações;</p>                                          
                             </div>
                         </div>
         

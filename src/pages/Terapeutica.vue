@@ -20,14 +20,14 @@
                     <h4>QUAIS OS BENEFÍCIOS?</h4>
                      <div class="beneficios">
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>	Redução de tensões musculares;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Aumento da sensação de bem-estar físico;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Melhor circulação sanguínea;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Redução de tensões musculares;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Aumento da sensação de bem-estar físico;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Melhor circulação sanguínea;</p>
                             </div>
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>Maior qualidade do sono;</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Prevenção de algumas doenças;</p>  
-                                <p><img src='../assets/bolinhas-txt.png'>Alívio do estresse e ansiedade.</p>                                                  
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Maior qualidade do sono;</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Prevenção de algumas doenças;</p>  
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio do estresse e ansiedade.</p>                                                  
                             </div>
                         </div>
                     </div>

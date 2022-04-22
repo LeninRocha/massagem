@@ -52,25 +52,25 @@ Por fim, incorporamos uma visão de mundo baseada no saber científico, que desp
                     <h4>QUAIS OS BENEFÍCIOS?</h4>
                         <div class="beneficios">
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Tratamento de distúrbios psicossomáticos</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Trabalho e tratamento de traumas</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Toque consciente</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Melhora dos relacionamentos afetivos</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidades dos orgasmos</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Melhora a qualidade do sono</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Melhora a performance sexual</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Liberação dos bloqueios energéticos sexuais</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Tratamento de distúrbios sexuais (ejaculação precoce, ejaculação tardia e anorgasmia)</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Tratamento de distúrbios psicossomáticos</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Trabalho e tratamento de traumas</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Toque consciente</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Melhora dos relacionamentos afetivos</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Melhora a qualidades dos orgasmos</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Melhora a qualidade do sono</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Melhora a performance sexual</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Liberação dos bloqueios energéticos sexuais</p>
                             </div>
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>Despertamento espiritual</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Desperta regiões sensoriais adormecidas</p>  
-                                <p><img src='../assets/bolinhas-txt.png'>Causa sensação de bem-estar profundo</p>                          
-                                <p><img src='../assets/bolinhas-txt.png'>Autoconfiança</p>    
-                                <p><img src='../assets/bolinhas-txt.png'>Aumento da libido e orgasmos múltiplos</p>    
-                                <p><img src='../assets/bolinhas-txt.png'>Alívio de estresse</p>    
-                                <p><img src='../assets/bolinhas-txt.png'>Alívio de dores</p>    
-                                <p><img src='../assets/bolinhas-txt.png'>Ajuda na melhora de bloqueios emocionais</p>    
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Despertamento espiritual</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Desperta regiões sensoriais adormecidas</p>  
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Causa sensação de bem-estar profundo</p>                          
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Autoconfiança</p>    
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Aumento da libido e orgasmos múltiplos</p>    
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio de estresse</p>    
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio de dores</p>    
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Ajuda na melhora de bloqueios emocionais</p>    
                         
                             </div>
                         </div>

@@ -6,13 +6,13 @@
                  <h2>Terapeutas Homem</h2>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/Patrick.jpeg'/>
+                        <img src='../assets/Patrick.jpeg' alt="terapeuta patrick"/>
                     </div>
                     <p>Patrick</p>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/Yago.jpeg'/>
+                        <img src='../assets/Yago.jpeg' alt="terapeuta yago"/>
                     </div>
                     <p>Yago</p>
                 </div>

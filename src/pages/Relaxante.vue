@@ -21,13 +21,13 @@
       
                     <div class="beneficios">
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>	Ativação da Circulação Sanguínea</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Relaxamento Corporal e Mental</p>
-                                <p><img src='../assets/bolinhas-txt.png'>	Sensação de Bem Estar</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Ativação da Circulação Sanguínea</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Relaxamento Corporal e Mental</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">	Sensação de Bem Estar</p>
                             </div>
                             <div class="col">
-                                <p><img src='../assets/bolinhas-txt.png'>Harmonização EnergéticaCorporal</p>
-                                <p><img src='../assets/bolinhas-txt.png'>Alívio de Dores Musculares</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Harmonização EnergéticaCorporal</p>
+                                <p><img src='../assets/bolinhas-txt.png' alt="bolinha">Alívio de Dores Musculares</p>
                             </div>
                         </div>
                     </div>

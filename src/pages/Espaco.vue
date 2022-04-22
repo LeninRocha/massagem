@@ -6,57 +6,57 @@
                  <h2>Nosso espaço</h2>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-1.jpeg'/>
+                        <img src='../assets/espaço-1.jpeg' alt="espaço"/>
                     </div>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-2.jpeg'/>
+                        <img src='../assets/espaço-2.jpeg' alt="espaço"/>
                     </div>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-3.jpeg'/>
+                        <img src='../assets/espaço-3.jpeg' alt="espaço"/>
                     </div>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-4.jpeg'/>
+                        <img src='../assets/espaço-4.jpeg' alt="espaço"/>
                     </div>
                 </div>
                                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-5.jpeg'/>
+                        <img src='../assets/espaço-5.jpeg' alt="espaço"/>
                     </div>
                 </div>
                                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-6.jpeg'/>
+                        <img src='../assets/espaço-6.jpeg' alt="espaço"/>
                     </div>
                 </div>
                                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-7.jpeg'/>
+                        <img src='../assets/espaço-7.jpeg' alt="espaço"/>
                     </div>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-8.jpeg'/>
+                        <img src='../assets/espaço-8.jpeg' alt="espaço"/>
                     </div>
                 </div>
                  <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-9.jpeg'/>
+                        <img src='../assets/espaço-9.jpeg' alt="espaço"/>
                     </div>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-10.jpeg'/>
+                        <img src='../assets/espaço-10.jpeg' alt="espaço"/>
                     </div>
                 </div>
                 <div class="card">
                     <div class="img-card">
-                        <img src='../assets/espaço-11.jpeg'/>
+                        <img src='../assets/espaço-11.jpeg' alt="espaço"/>
                     </div>
                 </div>
             </div>
