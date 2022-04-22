@@ -39,9 +39,7 @@
             <div class="flex">
                         <div class="col">
                             <h4>INVESTIMENTO</h4>
-                            <p>R$ 150,00 – Sessão única (dinheiro, pix ou débito) | R$ 160,00 – Sessão única (crédito à vista ou parcelado em até 2x)</p>
-                            <p>R$ 750,00 – 5 sessões (dinheiro, pix ou débito) | R$ 800,00 (crédito à vista ou parcelado em até 4x)</p>
-
+                            <p>R$ 150,00 – Sessão única (dinheiro, pix credito ou débito)</p>
                         </div>
                         <div class="col">
         <h4>DÚVIDAS FREQUENTES</h4>

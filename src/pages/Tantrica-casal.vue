@@ -95,10 +95,7 @@ Os terapeutas irão passar técnicas de respiração, movimentação, toque e co
             <div class="flex">
                         <div class="col">
                             <h4>INVESTIMENTO</h4>
-                            <p>R$ 480,00 – Sessão única (dinheiro, pix ou débito) | R$ 500,00 – Sessão única (crédito à vista ou parcelado em até 2x)</p>
-                            <p>R$ 2.400,00 – 5 sessões (dinheiro, pix ou débito) | R$2.500,00 (crédito à vista ou parcelado em até 5x)</p>
-                            <p>R$ 4.500,00 – 10 sessões (dinheiro, pix ou débito) | R$5.000,00 (crédito à vista ou parcelado em até 10x)</p>
-
+                            <p>R$ 450,00 – Sessão única (dinheiro, pix credito ou débito)</p>
                         </div>
                         <div class="col">
         <h4>DÚVIDAS FREQUENTES</h4>

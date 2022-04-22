@@ -80,9 +80,7 @@ Por fim, incorporamos uma visão de mundo baseada no saber científico, que desp
             <div class="flex">
                         <div class="col">
                             <h4>INVESTIMENTO</h4>
-                            <p>R$ 250,00 – Sessão única (dinheiro, pix ou débito) | R$ 260,00 – Sessão única (crédito à vista ou parcelado em até 2x)</p>
-                            <p>R$ 1.100,00 – 5 sessões(dinheiro, pix ou débito) | R$1.300,00 (crédito à vista ou parcelado em até 3x)</p>
-                            <p>R$ 2.350,00 – 10 sessões (dinheiro, pix ou débito) | R$2.600,00 (crédito à vista ou parcelado em até 4x)</p>
+                            <p>R$ 250,00 – Sessão única Sessão única (dinheiro, pix credito ou débito)</p>
 
                         </div>
                         <div class="col">
