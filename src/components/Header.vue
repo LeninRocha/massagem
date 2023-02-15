@@ -2,13 +2,21 @@
     <header>
         <nav class="container">
             <a href="/">
-                <img alt="Logo" id="logo" src="../assets/logo.png"/>
+                <img alt="Logo" id="logo" src="../assets/logo-2.png"/>
             </a>
             <div alt="Abrir menu" v-on:click="openMenu" id="menu-button"><i class="fa fa-bars"></i></div>
             <div id="menu-overlay" v-if="menuActive" v-on:click="closeMenu"></div>
             <div id="menu-items" :class="{active: menuActive}">
-                <img alt="wdev" id="menu-logo" src="../assets/logo.png"/>
+                <img alt="wdev" id="menu-logo" src="../assets/logo-2.png"/>
                 <div class="menu-mobile">
+                <vsa-list>
+                    <vsa-item>
+                      <vsa-heading>
+                        <router-link to="/"> HOME</router-link>
+                      </vsa-heading>
+                    </vsa-item>
+                      
+                </vsa-list>
                 <vsa-list>
                   <vsa-item>
                     <vsa-heading>
@@ -93,6 +101,9 @@
                 </vsa-list>
                 </div>
                 <nav class="menu-desktop">
+                    <div class="level-1">
+                        <div class="title-menu"><router-link to="/">HOME</router-link></div>
+                    </div>
                     <div class="level-1">
                         <div class="title-menu">QUEM SOMOS</div>
                         <div class="level-2">
@@ -212,7 +223,7 @@
 <style scoped>
     header{
         background-color: #264134;
-        height: 40px;
+        height: 65px;
         width: 100%;
         display: flex;
         justify-content: center;
@@ -229,7 +240,7 @@
         align-items: center;
     }
     #logo{
-        width: 45px;
+        width: 90px;
     }
     #menu-button{
         width: 30px;

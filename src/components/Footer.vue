@@ -48,8 +48,10 @@
     }
      footer.active{
          background-color: #264134;
-         height: 40px;
+         height: 50px;
          width: 100%;
+         display: flex;
+         align-items: center;
          bottom: 0;
      }
     footer.active .footer-left{
@@ -76,15 +78,20 @@
     color: #264134;
     height: 20px;
     width: 20px;
-    top: -15px;
-    left: 5px;
+    top: 15px;
+    left: 0px;
     position: absolute;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    font-family: sans-serif;
+    display: flex;
 
+    }
+    footer:hover .close-footer{
+        display: flex;
     }
     .footer-left{
         display: none;
@@ -132,6 +139,13 @@
 @media (min-width: 700px){
     .footer-left span{
         display: block;
+    }
+    .close-footer{
+        display: none;
+        left: 50px;
+    }
+    footer:hover .close-footer{
+        display: flex;
     }
 }
 </style>

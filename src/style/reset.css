@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Noto Serif', serif;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
 @font-face {
   font-family: 'Dream Avenue';
   src: url('../assets/Dream-Avenue.ttf') format('truetype');
@@ -12,6 +12,7 @@
 a{
     text-decoration: none;
     color: #000;
+    font-family: 'Roboto', sans-serif;
 }
 body{
 
@@ -21,6 +22,7 @@ body{
     background-repeat: no-repeat;
     background-size:cover ;
     background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
 }
 .container{
     box-sizing: border-box;
@@ -28,7 +30,6 @@ body{
     padding: 0 40px; 
     max-width: 1366px; 
     margin:0 auto;
-
 }
 img {
     border: none;
@@ -43,14 +44,19 @@ p{
     padding: 10px 0;
     line-height: 36px;
     text-align: justify;
+    font-family: 'Roboto', sans-serif;
 }
 h2{
     font-family: 'Dream Avenue';
     font-size: 68px;
     text-align: center;
 }
+h3{
+    font-family: 'Dream Avenue';
+}
 h4{
     padding: 20px 0;
+    font-family: 'Dream Avenue';
 } 
 h4 +h5{
     padding: 0 0 20px;
@@ -75,6 +81,7 @@ button{
         padding: 5px;
         line-height: 24px;
         text-align: left;
+        font-family: 'Roboto', sans-serif;
     }
     h2{
         font-size: 24px;

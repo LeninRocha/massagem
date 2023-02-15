@@ -1,10 +1,11 @@
+
 <template>
     <main>
       <div class="section-one">
         <div class="container">
             <div class="infos-section-one">
             <div class="text-section-one">
-              <h2>DANRÊ</h2>
+              <img alt="Logo" id="logo-home" src="../assets/logo-home.png"/>
               <h2>Terapias Integrativas</h2>
             </div>
           </div>
@@ -27,7 +28,9 @@
       <div class="section-tree">
         <div class="container">
         <div class="images-section-tree">
-            
+            <div class="modal">
+                <h3>O seu corpo fala com você! Você sabia? </h3>
+            </div>
         </div>
         <div class="text-section-tree">
                 <h3>Quem somos</h3>
@@ -80,9 +83,6 @@
 </template>
 <script>
 
-export default {
-
-}
 </script>
 <style scoped>
   .section-one{
@@ -98,6 +98,10 @@ export default {
         justify-content: flex-end;
     align-items: center;
   }
+  #logo-home{
+    width: 120px;
+    margin: 0 auto;
+  }
   .text-section-one{
     margin: auto;
     text-align: justify;
@@ -105,7 +109,7 @@ export default {
     padding: 20px 20px;
     width: auto;
     background-color: rgba(38, 65, 52, .8);
-    margin: 0;
+    margin: 0 auto;
     
   }
   
@@ -140,7 +144,7 @@ export default {
     .text-section-two p{
     color: #fff;
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
   }
   .section-tree{
     text-align: justify;
@@ -151,6 +155,9 @@ export default {
     background-size:cover ;
     height: 290px;
   }
+  .images-section-tre .modal{
+
+  }
    .section-tree .text-section-tree h3{
          color: #fff;
     font-size: 26px;
@@ -159,7 +166,7 @@ export default {
   .section-tree .text-section-tree p{
         color: #fff;
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
   }
   .section-tree .text-section-tree{
     color: #fff;
@@ -191,7 +198,7 @@ export default {
     .section-four p{
     color: #fff;
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
   }
   .section-five{
     background-color:  rgba(155, 113, 56, .8);
@@ -236,7 +243,11 @@ padding: 5px 0;
   .fa { margin-right: 5px;}
   @media (min-width: 700px){  
     .section-tree .text-section-tree h3{
-      text-align: left;
+      text-align: center;
+    }
+    #logo-home{
+      width: 300px;
+      margin: 0 auto;
     }
   .section-one .infos-section-one{
     height: 650px;
@@ -247,7 +258,7 @@ padding: 5px 0;
     padding: 70px 40px;
     width: auto;
     background-color: rgba(38, 65, 52, .8);
-    margin: 0;
+    margin: 0 auto;
   }
     .section-tree .text-section-tree{
       padding: 40px !important;
